@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Appbar from "@/components/Appbar";
 
 export const metadata: Metadata = {
   title: "Daily JLPT",
@@ -15,7 +16,8 @@ export default function RootLayout({
     <html lang="ko">
       <body className="antialiased">
         <div className="flex justify-center h-screen">
-          <main className="h-full bg-red-100 w-full max-w-[900px] px-4">
+          <main className="h-full border w-full max-w-[900px] px-4">
+            <Appbar />
             {children}
           </main>
         </div>
