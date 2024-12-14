@@ -16,7 +16,7 @@ export default function RootLayout({
     <html lang="ko">
       <body className="antialiased">
         <div className="flex justify-center h-screen">
-          <main className="h-full border w-full max-w-[900px] px-4">
+          <main className="flex flex-col h-full border w-full max-w-[900px] px-4">
             <Appbar />
             {children}
           </main>

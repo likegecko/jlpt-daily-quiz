@@ -1,9 +1,3 @@
-import { Button } from "@/components/ui/button";
-
 export default function Home() {
-  return (
-    <div>
-      <Button>버튼</Button>
-    </div>
-  );
+  return <div className="flex-1">홈페이지</div>;
 }
