@@ -1,0 +1,4636 @@
+[
+  {
+    "word": "毎朝",
+    "meaning": "매일 아침",
+    "furigana": "まいあさ",
+    "romaji": "maiasa",
+    "level": 5
+  },
+  {
+    "word": "問題",
+    "meaning": "문제",
+    "furigana": "もんだい",
+    "romaji": "mondai",
+    "level": 5
+  },
+  {
+    "word": "お茶",
+    "meaning": "녹차",
+    "furigana": "おちゃ",
+    "romaji": "ocha",
+    "level": 5
+  },
+  {
+    "word": "黒",
+    "meaning": "검정",
+    "furigana": "くろ",
+    "romaji": "kuro",
+    "level": 5
+  },
+  {
+    "word": "台所",
+    "meaning": "부엌",
+    "furigana": "だいどころ",
+    "romaji": "daidokoro",
+    "level": 5
+  },
+  {
+    "word": "葉書",
+    "meaning": "엽서",
+    "furigana": "はがき",
+    "romaji": "hagaki",
+    "level": 5
+  },
+  {
+    "word": "ペン",
+    "meaning": "펜",
+    "furigana": "",
+    "romaji": "pen",
+    "level": 5
+  },
+  {
+    "word": "ニュース",
+    "meaning": "뉴스",
+    "furigana": "",
+    "romaji": "nyūsu",
+    "level": 5
+  },
+  {
+    "word": "花瓶",
+    "meaning": "꽃병",
+    "furigana": "かびん",
+    "romaji": "kabin",
+    "level": 5
+  },
+  {
+    "word": "フォーク",
+    "meaning": "포크",
+    "furigana": "",
+    "romaji": "fōku",
+    "level": 5
+  },
+  {
+    "word": "引く",
+    "meaning": "당기다",
+    "furigana": "ひく",
+    "romaji": "hiku",
+    "level": 5
+  },
+  {
+    "word": "フィルム",
+    "meaning": "필름",
+    "furigana": "",
+    "romaji": "firumu",
+    "level": 5
+  },
+  {
+    "word": "磨く",
+    "meaning": "닦다",
+    "furigana": "みがく",
+    "romaji": "migaku",
+    "level": 5
+  },
+  {
+    "word": "押す",
+    "meaning": "누르다",
+    "furigana": "おす",
+    "romaji": "osu",
+    "level": 5
+  },
+  {
+    "word": "売る",
+    "meaning": "팔다",
+    "furigana": "うる",
+    "romaji": "uru",
+    "level": 5
+  },
+  {
+    "word": "電気",
+    "meaning": "전기",
+    "furigana": "でんき",
+    "romaji": "denki",
+    "level": 5
+  },
+  {
+    "word": "並ぶ",
+    "meaning": "줄서다",
+    "furigana": "ならぶ",
+    "romaji": "narabu",
+    "level": 5
+  },
+  {
+    "word": "病気",
+    "meaning": "병",
+    "furigana": "びょうき",
+    "romaji": "byōki",
+    "level": 5
+  },
+  {
+    "word": "ポケット",
+    "meaning": "주머니",
+    "furigana": "",
+    "romaji": "poketto",
+    "level": 5
+  },
+  {
+    "word": "頭",
+    "meaning": "머리",
+    "furigana": "あたま",
+    "romaji": "atama",
+    "level": 5
+  },
+  {
+    "word": "はし",
+    "meaning": "젓가락",
+    "furigana": "",
+    "romaji": "hashi",
+    "level": 5
+  },
+  {
+    "word": "英語",
+    "meaning": "영어",
+    "furigana": "えいご",
+    "romaji": "eigo",
+    "level": 5
+  },
+  {
+    "word": "家",
+    "meaning": "집",
+    "furigana": "いえ",
+    "romaji": "ie",
+    "level": 5
+  },
+  {
+    "word": "一月",
+    "meaning": "한 달",
+    "furigana": "ひとつき",
+    "romaji": "hitotsuki",
+    "level": 5
+  },
+  {
+    "word": "暑い",
+    "meaning": "덥다",
+    "furigana": "あつい",
+    "romaji": "atsui",
+    "level": 5
+  },
+  {
+    "word": "遊ぶ",
+    "meaning": "놀다",
+    "furigana": "あそぶ",
+    "romaji": "asobu",
+    "level": 5
+  },
+  {
+    "word": "取る",
+    "meaning": "가지다",
+    "furigana": "とる",
+    "romaji": "toru",
+    "level": 5
+  },
+  {
+    "word": "九",
+    "meaning": "아홉",
+    "furigana": "きゅう / く",
+    "romaji": "kyū / ku",
+    "level": 5
+  },
+  {
+    "word": "閉める",
+    "meaning": "닫다",
+    "furigana": "しめる",
+    "romaji": "shimeru",
+    "level": 5
+  },
+  {
+    "word": "たいへん",
+    "meaning": "매우",
+    "furigana": "",
+    "romaji": "taihen",
+    "level": 5
+  },
+  {
+    "word": "奥さん",
+    "meaning": "부인",
+    "furigana": "おくさん",
+    "romaji": "okusan",
+    "level": 5
+  },
+  {
+    "word": "作文",
+    "meaning": "작문",
+    "furigana": "さくぶん",
+    "romaji": "sakubun",
+    "level": 5
+  },
+  {
+    "word": "便利",
+    "meaning": "편리하다",
+    "furigana": "べんり",
+    "romaji": "benri",
+    "level": 5
+  },
+  {
+    "word": "右",
+    "meaning": "오른쪽",
+    "furigana": "みぎ",
+    "romaji": "migi",
+    "level": 5
+  },
+  {
+    "word": "寒い",
+    "meaning": "춥다",
+    "furigana": "さむい",
+    "romaji": "samui",
+    "level": 5
+  },
+  {
+    "word": "あびる",
+    "meaning": "목욕하다",
+    "furigana": "",
+    "romaji": "abiru",
+    "level": 5
+  },
+  {
+    "word": "十",
+    "meaning": "열",
+    "furigana": "じゅう  とお",
+    "romaji": "jū  tō",
+    "level": 5
+  },
+  {
+    "word": "中",
+    "meaning": "중간",
+    "furigana": "なか",
+    "romaji": "naka",
+    "level": 5
+  },
+  {
+    "word": "消す",
+    "meaning": "지우다",
+    "furigana": "けす",
+    "romaji": "kesu",
+    "level": 5
+  },
+  {
+    "word": "近く",
+    "meaning": "가깝다",
+    "furigana": "ちかく",
+    "romaji": "chikaku",
+    "level": 5
+  },
+  {
+    "word": "七つ",
+    "meaning": "일곱",
+    "furigana": "ななつ",
+    "romaji": "nanatsu",
+    "level": 5
+  },
+  {
+    "word": "テープレコーダー",
+    "meaning": "테이프 레코더",
+    "furigana": "",
+    "romaji": "tēpurekōdā",
+    "level": 5
+  },
+  {
+    "word": "目",
+    "meaning": "눈",
+    "furigana": "め",
+    "romaji": "me",
+    "level": 5
+  },
+  {
+    "word": "空",
+    "meaning": "하늘",
+    "furigana": "そら",
+    "romaji": "sora",
+    "level": 5
+  },
+  {
+    "word": "六日",
+    "meaning": "육일",
+    "furigana": "むいか",
+    "romaji": "muika",
+    "level": 5
+  },
+  {
+    "word": "座る",
+    "meaning": "앉다",
+    "furigana": "すわる",
+    "romaji": "suwaru",
+    "level": 5
+  },
+  {
+    "word": "年",
+    "meaning": "년",
+    "furigana": "とし",
+    "romaji": "toshi",
+    "level": 5
+  },
+  {
+    "word": "男の子",
+    "meaning": "남자아이",
+    "furigana": "おとこのこ",
+    "romaji": "otokonoko",
+    "level": 5
+  },
+  {
+    "word": "狭い",
+    "meaning": "좁다",
+    "furigana": "せまい",
+    "romaji": "semai",
+    "level": 5
+  },
+  {
+    "word": "冷蔵庫",
+    "meaning": "냉장고",
+    "furigana": "れいぞうこ",
+    "romaji": "reizōko",
+    "level": 5
+  },
+  {
+    "word": "カメラ",
+    "meaning": "카메라",
+    "furigana": "",
+    "romaji": "kamera",
+    "level": 5
+  },
+  {
+    "word": "玄関",
+    "meaning": "현관",
+    "furigana": "げんかん",
+    "romaji": "genkan",
+    "level": 5
+  },
+  {
+    "word": "違う",
+    "meaning": "다르다",
+    "furigana": "ちがう",
+    "romaji": "chigau",
+    "level": 5
+  },
+  {
+    "word": "危ない",
+    "meaning": "위험하다",
+    "furigana": "あぶない",
+    "romaji": "abunai",
+    "level": 5
+  },
+  {
+    "word": "分かる",
+    "meaning": "이해되다",
+    "furigana": "わかる",
+    "romaji": "wakaru",
+    "level": 5
+  },
+  {
+    "word": "言う",
+    "meaning": "말하다",
+    "furigana": "いう",
+    "romaji": "iu",
+    "level": 5
+  },
+  {
+    "word": "飲む",
+    "meaning": "마시다",
+    "furigana": "のむ",
+    "romaji": "nomu",
+    "level": 5
+  },
+  {
+    "word": "練習",
+    "meaning": "연습하다",
+    "furigana": "れんしゅうする",
+    "romaji": "renshūsuru",
+    "level": 5
+  },
+  {
+    "word": "何",
+    "meaning": "무엇",
+    "furigana": "なん / なに",
+    "romaji": "nan / nani",
+    "level": 5
+  },
+  {
+    "word": "厚い",
+    "meaning": "친절하다, 깊다, 두껍다",
+    "furigana": "あつい",
+    "romaji": "atsui",
+    "level": 5
+  },
+  {
+    "word": "毎月",
+    "meaning": "매달",
+    "furigana": "まいげつ / まいつき",
+    "romaji": "maigetsu / maitsuki",
+    "level": 5
+  },
+  {
+    "word": "閉まる",
+    "meaning": "닫히다",
+    "furigana": "しまる",
+    "romaji": "shimaru",
+    "level": 5
+  },
+  {
+    "word": "脱ぐ",
+    "meaning": "벗다",
+    "furigana": "ぬぐ",
+    "romaji": "nugu",
+    "level": 5
+  },
+  {
+    "word": "黒い",
+    "meaning": "검은",
+    "furigana": "くろい",
+    "romaji": "kuroi",
+    "level": 5
+  },
+  {
+    "word": "登る",
+    "meaning": "오르다",
+    "furigana": "のぼる",
+    "romaji": "noboru",
+    "level": 5
+  },
+  {
+    "word": "汚い",
+    "meaning": "더럽다",
+    "furigana": "きたない",
+    "romaji": "kitanai",
+    "level": 5
+  },
+  {
+    "word": "雨",
+    "meaning": "비",
+    "furigana": "あめ",
+    "romaji": "ame",
+    "level": 5
+  },
+  {
+    "word": "お皿",
+    "meaning": "접시",
+    "furigana": "おさら",
+    "romaji": "osara",
+    "level": 5
+  },
+  {
+    "word": "速い",
+    "meaning": "빠르다",
+    "furigana": "はやい",
+    "romaji": "hayai",
+    "level": 5
+  },
+  {
+    "word": "お風呂",
+    "meaning": "목욕",
+    "furigana": "おふろ",
+    "romaji": "ofuro",
+    "level": 5
+  },
+  {
+    "word": "新しい",
+    "meaning": "새로운",
+    "furigana": "あたらしい",
+    "romaji": "atarashii",
+    "level": 5
+  },
+  {
+    "word": "廊下",
+    "meaning": "복도",
+    "furigana": "ろうか",
+    "romaji": "rōka",
+    "level": 5
+  },
+  {
+    "word": "茶色",
+    "meaning": "갈색",
+    "furigana": "ちゃいろ",
+    "romaji": "chairo",
+    "level": 5
+  },
+  {
+    "word": "コート",
+    "meaning": "코트",
+    "furigana": "",
+    "romaji": "kōto",
+    "level": 5
+  },
+  {
+    "word": "手紙",
+    "meaning": "편지",
+    "furigana": "てがみ",
+    "romaji": "tegami",
+    "level": 5
+  },
+  {
+    "word": "要る",
+    "meaning": "필요하다",
+    "furigana": "いる",
+    "romaji": "iru",
+    "level": 5
+  },
+  {
+    "word": "こっち",
+    "meaning": "이쪽",
+    "furigana": "",
+    "romaji": "kotchi",
+    "level": 5
+  },
+  {
+    "word": "スプーン",
+    "meaning": "숟가락",
+    "furigana": "",
+    "romaji": "supūn",
+    "level": 5
+  },
+  {
+    "word": "時々",
+    "meaning": "가끔",
+    "furigana": "ときどき",
+    "romaji": "tokidoki",
+    "level": 5
+  },
+  {
+    "word": "傘",
+    "meaning": "우산",
+    "furigana": "かさ",
+    "romaji": "kasa",
+    "level": 5
+  },
+  {
+    "word": "いい / よい",
+    "meaning": "좋다",
+    "furigana": "",
+    "romaji": "ii / yoi",
+    "level": 5
+  },
+  {
+    "word": "電話",
+    "meaning": "전화",
+    "furigana": "でんわ",
+    "romaji": "denwa",
+    "level": 5
+  },
+  {
+    "word": "勤める",
+    "meaning": "일하다",
+    "furigana": "つとめる",
+    "romaji": "tsutomeru",
+    "level": 5
+  },
+  {
+    "word": "安い",
+    "meaning": "싸다",
+    "furigana": "やすい",
+    "romaji": "yasui",
+    "level": 5
+  },
+  {
+    "word": "どう",
+    "meaning": "어떻게",
+    "furigana": "",
+    "romaji": "dō",
+    "level": 5
+  },
+  {
+    "word": "道",
+    "meaning": "길",
+    "furigana": "みち",
+    "romaji": "michi",
+    "level": 5
+  },
+  {
+    "word": "バス",
+    "meaning": "버스",
+    "furigana": "",
+    "romaji": "basu",
+    "level": 5
+  },
+  {
+    "word": "クラス",
+    "meaning": "수업",
+    "furigana": "",
+    "romaji": "kurasu",
+    "level": 5
+  },
+  {
+    "word": "差す",
+    "meaning": "펴다",
+    "furigana": "さす",
+    "romaji": "sasu",
+    "level": 5
+  },
+  {
+    "word": "スポーツ",
+    "meaning": "스포츠",
+    "furigana": "",
+    "romaji": "supōtsu",
+    "level": 5
+  },
+  {
+    "word": "どっち",
+    "meaning": "어느 것",
+    "furigana": "",
+    "romaji": "dotchi",
+    "level": 5
+  },
+  {
+    "word": "そば",
+    "meaning": "옆",
+    "furigana": "",
+    "romaji": "soba",
+    "level": 5
+  },
+  {
+    "word": "新聞",
+    "meaning": "신문",
+    "furigana": "しんぶん",
+    "romaji": "shinbun",
+    "level": 5
+  },
+  {
+    "word": "どうして",
+    "meaning": "왜",
+    "furigana": "",
+    "romaji": "dōshite",
+    "level": 5
+  },
+  {
+    "word": "庭",
+    "meaning": "정원",
+    "furigana": "にわ",
+    "romaji": "niwa",
+    "level": 5
+  },
+  {
+    "word": "大きな",
+    "meaning": "큰",
+    "furigana": "おおきな",
+    "romaji": "ōkina",
+    "level": 5
+  },
+  {
+    "word": "辺",
+    "meaning": "지역",
+    "furigana": "へん",
+    "romaji": "hen",
+    "level": 5
+  },
+  {
+    "word": "番号",
+    "meaning": "번호",
+    "furigana": "ばんごう",
+    "romaji": "bangō",
+    "level": 5
+  },
+  {
+    "word": "家族",
+    "meaning": "가족",
+    "furigana": "かぞく",
+    "romaji": "kazoku",
+    "level": 5
+  },
+  {
+    "word": "下手",
+    "meaning": "서툴다",
+    "furigana": "へた",
+    "romaji": "heta",
+    "level": 5
+  },
+  {
+    "word": "料理",
+    "meaning": "요리",
+    "furigana": "りょうり",
+    "romaji": "ryōri",
+    "level": 5
+  },
+  {
+    "word": "カレー",
+    "meaning": "카레",
+    "furigana": "",
+    "romaji": "karē",
+    "level": 5
+  },
+  {
+    "word": "六",
+    "meaning": "여섯",
+    "furigana": "ろく",
+    "romaji": "roku",
+    "level": 5
+  },
+  {
+    "word": "今年",
+    "meaning": "올해",
+    "furigana": "ことし",
+    "romaji": "kotoshi",
+    "level": 5
+  },
+  {
+    "word": "初めて",
+    "meaning": "처음으로",
+    "furigana": "はじめて",
+    "romaji": "hajimete",
+    "level": 5
+  },
+  {
+    "word": "風邪",
+    "meaning": "감기",
+    "furigana": "かぜ",
+    "romaji": "kaze",
+    "level": 5
+  },
+  {
+    "word": "赤い",
+    "meaning": "빨간",
+    "furigana": "あかい",
+    "romaji": "akai",
+    "level": 5
+  },
+  {
+    "word": "甘い",
+    "meaning": "달다",
+    "furigana": "あまい",
+    "romaji": "amai",
+    "level": 5
+  },
+  {
+    "word": "西",
+    "meaning": "서쪽",
+    "furigana": "にし",
+    "romaji": "nishi",
+    "level": 5
+  },
+  {
+    "word": "毎週",
+    "meaning": "매주",
+    "furigana": "まいしゅう",
+    "romaji": "maishū",
+    "level": 5
+  },
+  {
+    "word": "いつも",
+    "meaning": "항상",
+    "furigana": "",
+    "romaji": "itsumo",
+    "level": 5
+  },
+  {
+    "word": "五つ",
+    "meaning": "다섯",
+    "furigana": "いつつ",
+    "romaji": "itsutsu",
+    "level": 5
+  },
+  {
+    "word": "建物",
+    "meaning": "건물",
+    "furigana": "たてもの",
+    "romaji": "tatemono",
+    "level": 5
+  },
+  {
+    "word": "なる",
+    "meaning": "되다",
+    "furigana": "",
+    "romaji": "naru",
+    "level": 5
+  },
+  {
+    "word": "まっすぐ",
+    "meaning": "똑바로",
+    "furigana": "",
+    "romaji": "massugu",
+    "level": 5
+  },
+  {
+    "word": "作る",
+    "meaning": "만들다",
+    "furigana": "つくる",
+    "romaji": "tsukuru",
+    "level": 5
+  },
+  {
+    "word": "風",
+    "meaning": "바람",
+    "furigana": "かぜ",
+    "romaji": "kaze",
+    "level": 5
+  },
+  {
+    "word": "少し",
+    "meaning": "조금",
+    "furigana": "すこし",
+    "romaji": "sukoshi",
+    "level": 5
+  },
+  {
+    "word": "大学",
+    "meaning": "대학교",
+    "furigana": "だいがく",
+    "romaji": "daigaku",
+    "level": 5
+  },
+  {
+    "word": "シャツ",
+    "meaning": "셔츠",
+    "furigana": "",
+    "romaji": "shatsu",
+    "level": 5
+  },
+  {
+    "word": "病院",
+    "meaning": "병원",
+    "furigana": "びょういん",
+    "romaji": "byōin",
+    "level": 5
+  },
+  {
+    "word": "会社",
+    "meaning": "회사",
+    "furigana": "かいしゃ",
+    "romaji": "kaisha",
+    "level": 5
+  },
+  {
+    "word": "無くす",
+    "meaning": "잃어버리다",
+    "furigana": "なくす",
+    "romaji": "nakusu",
+    "level": 5
+  },
+  {
+    "word": "スリッパ",
+    "meaning": "슬리퍼",
+    "furigana": "",
+    "romaji": "surippa",
+    "level": 5
+  },
+  {
+    "word": "地下鉄",
+    "meaning": "지하철",
+    "furigana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "level": 5
+  },
+  {
+    "word": "ページ",
+    "meaning": "페이지",
+    "furigana": "",
+    "romaji": "pēji",
+    "level": 5
+  },
+  {
+    "word": "曇る",
+    "meaning": "흐려지다",
+    "furigana": "くもる",
+    "romaji": "kumoru",
+    "level": 5
+  },
+  {
+    "word": "辞書",
+    "meaning": "사전",
+    "furigana": "じしょ",
+    "romaji": "jisho",
+    "level": 5
+  },
+  {
+    "word": "万年筆",
+    "meaning": "만년필",
+    "furigana": "まんねんひつ",
+    "romaji": "mannenhitsu",
+    "level": 5
+  },
+  {
+    "word": "海",
+    "meaning": "바다",
+    "furigana": "うみ",
+    "romaji": "umi",
+    "level": 5
+  },
+  {
+    "word": "エレベーター",
+    "meaning": "엘리베이터",
+    "furigana": "",
+    "romaji": "erebētā",
+    "level": 5
+  },
+  {
+    "word": "たぶん",
+    "meaning": "아마도",
+    "furigana": "",
+    "romaji": "tabun",
+    "level": 5
+  },
+  {
+    "word": "夕方",
+    "meaning": "저녁",
+    "furigana": "ゆうがた",
+    "romaji": "yūgata",
+    "level": 5
+  },
+  {
+    "word": "東",
+    "meaning": "동쪽",
+    "furigana": "ひがし",
+    "romaji": "higashi",
+    "level": 5
+  },
+  {
+    "word": "声",
+    "meaning": "목소리",
+    "furigana": "こえ",
+    "romaji": "koe",
+    "level": 5
+  },
+  {
+    "word": "撮る",
+    "meaning": "촬영하다",
+    "furigana": "とる",
+    "romaji": "toru",
+    "level": 5
+  },
+  {
+    "word": "私",
+    "meaning": "나",
+    "furigana": "わたくし",
+    "romaji": "watakushi",
+    "level": 5
+  },
+  {
+    "word": "両親",
+    "meaning": "부모님",
+    "furigana": "りょうしん",
+    "romaji": "ryōshin",
+    "level": 5
+  },
+  {
+    "word": "きれい",
+    "meaning": "예쁘다, 깨끗하다",
+    "furigana": "",
+    "romaji": "kirei",
+    "level": 5
+  },
+  {
+    "word": "どうぞ",
+    "meaning": "부탁드립니다",
+    "furigana": "",
+    "romaji": "dōzo",
+    "level": 5
+  },
+  {
+    "word": "好き",
+    "meaning": "좋아하다",
+    "furigana": "すき",
+    "romaji": "suki",
+    "level": 5
+  },
+  {
+    "word": "静か",
+    "meaning": "조용하다",
+    "furigana": "しずか",
+    "romaji": "shizuka",
+    "level": 5
+  },
+  {
+    "word": "お父さん",
+    "meaning": "아버지",
+    "furigana": "おとうさん",
+    "romaji": "otōsan",
+    "level": 5
+  },
+  {
+    "word": "人",
+    "meaning": "사람",
+    "furigana": "ひと",
+    "romaji": "hito",
+    "level": 5
+  },
+  {
+    "word": "覚える",
+    "meaning": "기억하다",
+    "furigana": "おぼえる",
+    "romaji": "oboeru",
+    "level": 5
+  },
+  {
+    "word": "休み",
+    "meaning": "휴식, 휴일",
+    "furigana": "やすみ",
+    "romaji": "yasumi",
+    "level": 5
+  },
+  {
+    "word": "池",
+    "meaning": "연못",
+    "furigana": "いけ",
+    "romaji": "ike",
+    "level": 5
+  },
+  {
+    "word": "始まる",
+    "meaning": "시작하다",
+    "furigana": "はじまる",
+    "romaji": "hajimaru",
+    "level": 5
+  },
+  {
+    "word": "困る",
+    "meaning": "걱정하다",
+    "furigana": "こまる",
+    "romaji": "komaru",
+    "level": 5
+  },
+  {
+    "word": "ほか",
+    "meaning": "다른, 나머지",
+    "furigana": "",
+    "romaji": "hoka",
+    "level": 5
+  },
+  {
+    "word": "ちゃわん",
+    "meaning": "밥그릇",
+    "furigana": "",
+    "romaji": "chawan",
+    "level": 5
+  },
+  {
+    "word": "疲れる",
+    "meaning": "피곤해지다",
+    "furigana": "つかれる",
+    "romaji": "tsukareru",
+    "level": 5
+  },
+  {
+    "word": "掃除",
+    "meaning": "청소하다",
+    "furigana": "そうじする",
+    "romaji": "sōjisuru",
+    "level": 5
+  },
+  {
+    "word": "賑やか",
+    "meaning": "붐비는",
+    "furigana": "にぎやか",
+    "romaji": "nigiyaka",
+    "level": 5
+  },
+  {
+    "word": "一つ",
+    "meaning": "하나",
+    "furigana": "ひとつ",
+    "romaji": "hitotsu",
+    "level": 5
+  },
+  {
+    "word": "来週",
+    "meaning": "다음 주",
+    "furigana": "らいしゅう",
+    "romaji": "raishū",
+    "level": 5
+  },
+  {
+    "word": "財布",
+    "meaning": "지갑",
+    "furigana": "さいふ",
+    "romaji": "saifu",
+    "level": 5
+  },
+  {
+    "word": "知る",
+    "meaning": "알다",
+    "furigana": "しる",
+    "romaji": "shiru",
+    "level": 5
+  },
+  {
+    "word": "教える",
+    "meaning": "가르치다",
+    "furigana": "おしえる",
+    "romaji": "oshieru",
+    "level": 5
+  },
+  {
+    "word": "朝御飯",
+    "meaning": "아침밥",
+    "furigana": "あさごはん",
+    "romaji": "asagohan",
+    "level": 5
+  },
+  {
+    "word": "飛ぶ",
+    "meaning": "날다",
+    "furigana": "とぶ",
+    "romaji": "tobu",
+    "level": 5
+  },
+  {
+    "word": "言葉",
+    "meaning": "단어, 언어",
+    "furigana": "ことば",
+    "romaji": "kotoba",
+    "level": 5
+  },
+  {
+    "word": "キロ / キログラム",
+    "meaning": "킬로그램",
+    "furigana": "",
+    "romaji": "kiro / kiroguramu",
+    "level": 5
+  },
+  {
+    "word": "赤",
+    "meaning": "빨강",
+    "furigana": "あか",
+    "romaji": "aka",
+    "level": 5
+  },
+  {
+    "word": "自分",
+    "meaning": "자신",
+    "furigana": "じぶん",
+    "romaji": "jibun",
+    "level": 5
+  },
+  {
+    "word": "デパート",
+    "meaning": "백화점",
+    "furigana": "",
+    "romaji": "depāto",
+    "level": 5
+  },
+  {
+    "word": "薄い",
+    "meaning": "얇다, 약하다",
+    "furigana": "うすい",
+    "romaji": "usui",
+    "level": 5
+  },
+  {
+    "word": "高い",
+    "meaning": "높다, 비싸다",
+    "furigana": "たかい",
+    "romaji": "takai",
+    "level": 5
+  },
+  {
+    "word": "帰る",
+    "meaning": "돌아가다",
+    "furigana": "かえる",
+    "romaji": "kaeru",
+    "level": 5
+  },
+  {
+    "word": "はい",
+    "meaning": "네",
+    "furigana": "",
+    "romaji": "hai",
+    "level": 5
+  },
+  {
+    "word": "卵",
+    "meaning": "달걀",
+    "furigana": "たまご",
+    "romaji": "tamago",
+    "level": 5
+  },
+  {
+    "word": "低い",
+    "meaning": "낮다",
+    "furigana": "ひくい",
+    "romaji": "hikui",
+    "level": 5
+  },
+  {
+    "word": "なぜ",
+    "meaning": "왜",
+    "furigana": "",
+    "romaji": "naze",
+    "level": 5
+  },
+  {
+    "word": "一日",
+    "meaning": "하루, 첫날",
+    "furigana": "いちにち",
+    "romaji": "ichinichi",
+    "level": 5
+  },
+  {
+    "word": "いいえ",
+    "meaning": "아니요",
+    "furigana": "",
+    "romaji": "iie",
+    "level": 5
+  },
+  {
+    "word": "小さな",
+    "meaning": "작은",
+    "furigana": "ちいさな",
+    "romaji": "chiisana",
+    "level": 5
+  },
+  {
+    "word": "時間",
+    "meaning": "시간",
+    "furigana": "じかん",
+    "romaji": "jikan",
+    "level": 5
+  },
+  {
+    "word": "上げる",
+    "meaning": "주다",
+    "furigana": "あげる",
+    "romaji": "ageru",
+    "level": 5
+  },
+  {
+    "word": "ふろ",
+    "meaning": "목욕",
+    "furigana": "",
+    "romaji": "furo",
+    "level": 5
+  },
+  {
+    "word": "生徒",
+    "meaning": "학생",
+    "furigana": "せいと",
+    "romaji": "seito",
+    "level": 5
+  },
+  {
+    "word": "レストラン",
+    "meaning": "식당",
+    "furigana": "",
+    "romaji": "resutoran",
+    "level": 5
+  },
+  {
+    "word": "出す",
+    "meaning": "내다",
+    "furigana": "だす",
+    "romaji": "dasu",
+    "level": 5
+  },
+  {
+    "word": "かわいい",
+    "meaning": "귀엽다",
+    "furigana": "",
+    "romaji": "kawaii",
+    "level": 5
+  },
+  {
+    "word": "音楽",
+    "meaning": "음악",
+    "furigana": "おんがく",
+    "romaji": "ongaku",
+    "level": 5
+  },
+  {
+    "word": "歌",
+    "meaning": "노래",
+    "furigana": "うた",
+    "romaji": "uta",
+    "level": 5
+  },
+  {
+    "word": "いちばん",
+    "meaning": "제일, 첫째",
+    "furigana": "",
+    "romaji": "ichiban",
+    "level": 5
+  },
+  {
+    "word": "咲く",
+    "meaning": "피다",
+    "furigana": "さく",
+    "romaji": "saku",
+    "level": 5
+  },
+  {
+    "word": "山",
+    "meaning": "산",
+    "furigana": "やま",
+    "romaji": "yama",
+    "level": 5
+  },
+  {
+    "word": "テレビ",
+    "meaning": "텔레비전",
+    "furigana": "",
+    "romaji": "terebi",
+    "level": 5
+  },
+  {
+    "word": "授業",
+    "meaning": "수업",
+    "furigana": "じゅぎょう",
+    "romaji": "jugyō",
+    "level": 5
+  },
+  {
+    "word": "暖かい",
+    "meaning": "따뜻하다",
+    "furigana": "あたたかい",
+    "romaji": "atatakai",
+    "level": 5
+  },
+  {
+    "word": "セーター",
+    "meaning": "스웨터",
+    "furigana": "",
+    "romaji": "sētā",
+    "level": 5
+  },
+  {
+    "word": "自転車",
+    "meaning": "자전거",
+    "furigana": "じてんしゃ",
+    "romaji": "jitensha",
+    "level": 5
+  },
+  {
+    "word": "ラジカセ / ラジオカセット",
+    "meaning": "라디오카세트",
+    "furigana": "",
+    "romaji": "rajikase / rajiokasetto",
+    "level": 5
+  },
+  {
+    "word": "つける",
+    "meaning": "켜다",
+    "furigana": "",
+    "romaji": "tsukeru",
+    "level": 5
+  },
+  {
+    "word": "さ来年",
+    "meaning": "내후년",
+    "furigana": "さらいねん",
+    "romaji": "sarainen",
+    "level": 5
+  },
+  {
+    "word": "学校",
+    "meaning": "학교",
+    "furigana": "がっこう",
+    "romaji": "gakkō",
+    "level": 5
+  },
+  {
+    "word": "いくら",
+    "meaning": "얼마",
+    "furigana": "",
+    "romaji": "ikura",
+    "level": 5
+  },
+  {
+    "word": "四",
+    "meaning": "넷",
+    "furigana": "し / よん",
+    "romaji": "shi / yon",
+    "level": 5
+  },
+  {
+    "word": "入る",
+    "meaning": "들어가다",
+    "furigana": "はいる",
+    "romaji": "hairu",
+    "level": 5
+  },
+  {
+    "word": "曇り",
+    "meaning": "흐린 날씨",
+    "furigana": "くもり",
+    "romaji": "kumori",
+    "level": 5
+  },
+  {
+    "word": "外国",
+    "meaning": "외국",
+    "furigana": "がいこく",
+    "romaji": "gaikoku",
+    "level": 5
+  },
+  {
+    "word": "温い",
+    "meaning": "미지근하다",
+    "furigana": "ぬるい",
+    "romaji": "nurui",
+    "level": 5
+  },
+  {
+    "word": "そうして / そして",
+    "meaning": "그리고",
+    "furigana": "",
+    "romaji": "sōshite / soshite",
+    "level": 5
+  },
+  {
+    "word": "どうも",
+    "meaning": "감사합니다",
+    "furigana": "",
+    "romaji": "dōmo",
+    "level": 5
+  },
+  {
+    "word": "仕事",
+    "meaning": "일",
+    "furigana": "しごと",
+    "romaji": "shigoto",
+    "level": 5
+  },
+  {
+    "word": "窓",
+    "meaning": "창문",
+    "furigana": "まど",
+    "romaji": "mado",
+    "level": 5
+  },
+  {
+    "word": "晩",
+    "meaning": "저녁",
+    "furigana": "ばん",
+    "romaji": "ban",
+    "level": 5
+  },
+  {
+    "word": "難しい",
+    "meaning": "어렵다",
+    "furigana": "むずかしい",
+    "romaji": "muzukashii",
+    "level": 5
+  },
+  {
+    "word": "村",
+    "meaning": "마을",
+    "furigana": "むら",
+    "romaji": "mura",
+    "level": 5
+  },
+  {
+    "word": "鉛筆",
+    "meaning": "연필",
+    "furigana": "えんぴつ",
+    "romaji": "enpitsu",
+    "level": 5
+  },
+  {
+    "word": "長い",
+    "meaning": "길다",
+    "furigana": "ながい",
+    "romaji": "nagai",
+    "level": 5
+  },
+  {
+    "word": "生まれる",
+    "meaning": "태어나다",
+    "furigana": "うまれる",
+    "romaji": "umareru",
+    "level": 5
+  },
+  {
+    "word": "雑誌",
+    "meaning": "잡지",
+    "furigana": "ざっし",
+    "romaji": "zasshi",
+    "level": 5
+  },
+  {
+    "word": "国",
+    "meaning": "나라",
+    "furigana": "くに",
+    "romaji": "kuni",
+    "level": 5
+  },
+  {
+    "word": "おまわりさん",
+    "meaning": "경찰관",
+    "furigana": "",
+    "romaji": "omawarisan",
+    "level": 5
+  },
+  {
+    "word": "今朝",
+    "meaning": "오늘 아침",
+    "furigana": "けさ",
+    "romaji": "kesa",
+    "level": 5
+  },
+  {
+    "word": "晴れる",
+    "meaning": "맑다",
+    "furigana": "はれる",
+    "romaji": "hareru",
+    "level": 5
+  },
+  {
+    "word": "夕飯",
+    "meaning": "저녁밥",
+    "furigana": "ゆうはん",
+    "romaji": "yūhan",
+    "level": 5
+  },
+  {
+    "word": "一緒",
+    "meaning": "함께",
+    "furigana": "いっしょ",
+    "romaji": "issho",
+    "level": 5
+  },
+  {
+    "word": "どれ",
+    "meaning": "어느 것",
+    "furigana": "",
+    "romaji": "dore",
+    "level": 5
+  },
+  {
+    "word": "立つ",
+    "meaning": "서다",
+    "furigana": "たつ",
+    "romaji": "tatsu",
+    "level": 5
+  },
+  {
+    "word": "元気",
+    "meaning": "건강",
+    "furigana": "げんき",
+    "romaji": "genki",
+    "level": 5
+  },
+  {
+    "word": "天気",
+    "meaning": "날씨",
+    "furigana": "てんき",
+    "romaji": "tenki",
+    "level": 5
+  },
+  {
+    "word": "医者",
+    "meaning": "의사",
+    "furigana": "いしゃ",
+    "romaji": "isha",
+    "level": 5
+  },
+  {
+    "word": "七",
+    "meaning": "일곱",
+    "furigana": "しち / なな",
+    "romaji": "shichi / nana",
+    "level": 5
+  },
+  {
+    "word": "はく",
+    "meaning": "입다",
+    "furigana": "",
+    "romaji": "haku",
+    "level": 5
+  },
+  {
+    "word": "だんだん",
+    "meaning": "점점",
+    "furigana": "",
+    "romaji": "dandan",
+    "level": 5
+  },
+  {
+    "word": "戸",
+    "meaning": "문",
+    "furigana": "と",
+    "romaji": "to",
+    "level": 5
+  },
+  {
+    "word": "ノート",
+    "meaning": "공책",
+    "furigana": "",
+    "romaji": "nōto",
+    "level": 5
+  },
+  {
+    "word": "また",
+    "meaning": "다시, 그리고",
+    "furigana": "",
+    "romaji": "mata",
+    "level": 5
+  },
+  {
+    "word": "今日",
+    "meaning": "오늘",
+    "furigana": "きょう",
+    "romaji": "kyō",
+    "level": 5
+  },
+  {
+    "word": "とても",
+    "meaning": "매우",
+    "furigana": "",
+    "romaji": "totemo",
+    "level": 5
+  },
+  {
+    "word": "一昨年",
+    "meaning": "재작년",
+    "furigana": "おととし",
+    "romaji": "ototoshi",
+    "level": 5
+  },
+  {
+    "word": "文章",
+    "meaning": "문장",
+    "furigana": "ぶんしょう",
+    "romaji": "bunshō",
+    "level": 5
+  },
+  {
+    "word": "公園",
+    "meaning": "공원",
+    "furigana": "こうえん",
+    "romaji": "kōen",
+    "level": 5
+  },
+  {
+    "word": "借りる",
+    "meaning": "빌리다",
+    "furigana": "かりる",
+    "romaji": "kariru",
+    "level": 5
+  },
+  {
+    "word": "口",
+    "meaning": "입",
+    "furigana": "くち",
+    "romaji": "kuchi",
+    "level": 5
+  },
+  {
+    "word": "持つ",
+    "meaning": "잡다",
+    "furigana": "もつ",
+    "romaji": "motsu",
+    "level": 5
+  },
+  {
+    "word": "上着",
+    "meaning": "재킷",
+    "furigana": "うわぎ",
+    "romaji": "uwagi",
+    "level": 5
+  },
+  {
+    "word": "秋",
+    "meaning": "가을",
+    "furigana": "あき",
+    "romaji": "aki",
+    "level": 5
+  },
+  {
+    "word": "悪い",
+    "meaning": "나쁘다",
+    "furigana": "わるい",
+    "romaji": "warui",
+    "level": 5
+  },
+  {
+    "word": "青い",
+    "meaning": "파란",
+    "furigana": "あおい",
+    "romaji": "aoi",
+    "level": 5
+  },
+  {
+    "word": "住む",
+    "meaning": "살다",
+    "furigana": "すむ",
+    "romaji": "sumu",
+    "level": 5
+  },
+  {
+    "word": "かける",
+    "meaning": "전화하다",
+    "furigana": "",
+    "romaji": "kakeru",
+    "level": 5
+  },
+  {
+    "word": "木曜日",
+    "meaning": "목요일",
+    "furigana": "もくようび",
+    "romaji": "mokuyōbi",
+    "level": 5
+  },
+  {
+    "word": "忘れる",
+    "meaning": "잊다",
+    "furigana": "わすれる",
+    "romaji": "wasureru",
+    "level": 5
+  },
+  {
+    "word": "お手洗い",
+    "meaning": "화장실",
+    "furigana": "おてあらい",
+    "romaji": "otearai",
+    "level": 5
+  },
+  {
+    "word": "写真",
+    "meaning": "사진",
+    "furigana": "しゃしん",
+    "romaji": "shashin",
+    "level": 5
+  },
+  {
+    "word": "ゼロ",
+    "meaning": "영",
+    "furigana": "",
+    "romaji": "zero",
+    "level": 5
+  },
+  {
+    "word": "いろいろ",
+    "meaning": "여러 가지",
+    "furigana": "",
+    "romaji": "iroiro",
+    "level": 5
+  },
+  {
+    "word": "もう",
+    "meaning": "이미",
+    "furigana": "",
+    "romaji": "mō",
+    "level": 5
+  },
+  {
+    "word": "会う",
+    "meaning": "만나다",
+    "furigana": "あう",
+    "romaji": "au",
+    "level": 5
+  },
+  {
+    "word": "南",
+    "meaning": "남쪽",
+    "furigana": "みなみ",
+    "romaji": "minami",
+    "level": 5
+  },
+  {
+    "word": "五日",
+    "meaning": "오일",
+    "furigana": "いつか",
+    "romaji": "itsuka",
+    "level": 5
+  },
+  {
+    "word": "着る",
+    "meaning": "입다",
+    "furigana": "きる",
+    "romaji": "kiru",
+    "level": 5
+  },
+  {
+    "word": "そこ",
+    "meaning": "그곳",
+    "furigana": "",
+    "romaji": "soko",
+    "level": 5
+  },
+  {
+    "word": "終る",
+    "meaning": "끝나다",
+    "furigana": "おわる",
+    "romaji": "owaru",
+    "level": 5
+  },
+  {
+    "word": "どの",
+    "meaning": "어느",
+    "furigana": "",
+    "romaji": "dono",
+    "level": 5
+  },
+  {
+    "word": "読む",
+    "meaning": "읽다",
+    "furigana": "よむ",
+    "romaji": "yomu",
+    "level": 5
+  },
+  {
+    "word": "それでは",
+    "meaning": "그러면",
+    "furigana": "",
+    "romaji": "soredeha",
+    "level": 5
+  },
+  {
+    "word": "来月",
+    "meaning": "다음 달",
+    "furigana": "らいげつ",
+    "romaji": "raigetsu",
+    "level": 5
+  },
+  {
+    "word": "果物",
+    "meaning": "과일",
+    "furigana": "くだもの",
+    "romaji": "kudamono",
+    "level": 5
+  },
+  {
+    "word": "止まる",
+    "meaning": "멈추다",
+    "furigana": "とまる",
+    "romaji": "tomaru",
+    "level": 5
+  },
+  {
+    "word": "着く",
+    "meaning": "도착하다",
+    "furigana": "つく",
+    "romaji": "tsuku",
+    "level": 5
+  },
+  {
+    "word": "大好き",
+    "meaning": "매우 좋아하다",
+    "furigana": "だいすき",
+    "romaji": "daisuki",
+    "level": 5
+  },
+  {
+    "word": "妹",
+    "meaning": "여동생",
+    "furigana": "いもうと",
+    "romaji": "imōto",
+    "level": 5
+  },
+  {
+    "word": "夏",
+    "meaning": "여름",
+    "furigana": "なつ",
+    "romaji": "natsu",
+    "level": 5
+  },
+  {
+    "word": "今晩",
+    "meaning": "오늘 저녁",
+    "furigana": "こんばん",
+    "romaji": "konban",
+    "level": 5
+  },
+  {
+    "word": "塩",
+    "meaning": "소금",
+    "furigana": "しお",
+    "romaji": "shio",
+    "level": 5
+  },
+  {
+    "word": "先週",
+    "meaning": "지난 주",
+    "furigana": "せんしゅう",
+    "romaji": "senshū",
+    "level": 5
+  },
+  {
+    "word": "欲しい",
+    "meaning": "원하다",
+    "furigana": "ほしい",
+    "romaji": "hoshii",
+    "level": 5
+  },
+  {
+    "word": "木",
+    "meaning": "나무",
+    "furigana": "き",
+    "romaji": "ki",
+    "level": 5
+  },
+  {
+    "word": "ほんとう",
+    "meaning": "진실",
+    "furigana": "",
+    "romaji": "hontō",
+    "level": 5
+  },
+  {
+    "word": "薬",
+    "meaning": "약",
+    "furigana": "くすり",
+    "romaji": "kusuri",
+    "level": 5
+  },
+  {
+    "word": "お菓子",
+    "meaning": "과자",
+    "furigana": "おかし",
+    "romaji": "okashi",
+    "level": 5
+  },
+  {
+    "word": "金曜日",
+    "meaning": "금요일",
+    "furigana": "きんようび",
+    "romaji": "kin'yōbi",
+    "level": 5
+  },
+  {
+    "word": "まずい",
+    "meaning": "맛없다",
+    "furigana": "",
+    "romaji": "mazui",
+    "level": 5
+  },
+  {
+    "word": "お酒",
+    "meaning": "술",
+    "furigana": "おさけ",
+    "romaji": "osake",
+    "level": 5
+  },
+  {
+    "word": "多い",
+    "meaning": "많다",
+    "furigana": "おおい",
+    "romaji": "ōi",
+    "level": 5
+  },
+  {
+    "word": "動物",
+    "meaning": "동물",
+    "furigana": "どうぶつ",
+    "romaji": "dōbutsu",
+    "level": 5
+  },
+  {
+    "word": "切符",
+    "meaning": "표",
+    "furigana": "きっぷ",
+    "romaji": "kippu",
+    "level": 5
+  },
+  {
+    "word": "キロ / キロメートル",
+    "meaning": "킬로미터",
+    "furigana": "",
+    "romaji": "kiro / kiromētoru",
+    "level": 5
+  },
+  {
+    "word": "呼ぶ",
+    "meaning": "부르다",
+    "furigana": "よぶ",
+    "romaji": "yobu",
+    "level": 5
+  },
+  {
+    "word": "体",
+    "meaning": "몸",
+    "furigana": "からだ",
+    "romaji": "karada",
+    "level": 5
+  },
+  {
+    "word": "ゆっくりと",
+    "meaning": "천천히",
+    "furigana": "",
+    "romaji": "yukkurito",
+    "level": 5
+  },
+  {
+    "word": "二日",
+    "meaning": "이일",
+    "furigana": "ふつか",
+    "romaji": "futsuka",
+    "level": 5
+  },
+  {
+    "word": "大人",
+    "meaning": "어른",
+    "furigana": "おとな",
+    "romaji": "otona",
+    "level": 5
+  },
+  {
+    "word": "歯",
+    "meaning": "이",
+    "furigana": "は",
+    "romaji": "ha",
+    "level": 5
+  },
+  {
+    "word": "冬",
+    "meaning": "겨울",
+    "furigana": "ふゆ",
+    "romaji": "fuyu",
+    "level": 5
+  },
+  {
+    "word": "所",
+    "meaning": "장소",
+    "furigana": "ところ",
+    "romaji": "tokoro",
+    "level": 5
+  },
+  {
+    "word": "吹く",
+    "meaning": "불다",
+    "furigana": "ふく",
+    "romaji": "fuku",
+    "level": 5
+  },
+  {
+    "word": "足",
+    "meaning": "발, 다리",
+    "furigana": "あし",
+    "romaji": "ashi",
+    "level": 5
+  },
+  {
+    "word": "箱",
+    "meaning": "상자",
+    "furigana": "はこ",
+    "romaji": "hako",
+    "level": 5
+  },
+  {
+    "word": "八",
+    "meaning": "여덟",
+    "furigana": "はち",
+    "romaji": "hachi",
+    "level": 5
+  },
+  {
+    "word": "朝",
+    "meaning": "아침",
+    "furigana": "あさ",
+    "romaji": "asa",
+    "level": 5
+  },
+  {
+    "word": "一昨日",
+    "meaning": "그저께",
+    "furigana": "おととい",
+    "romaji": "ototoi",
+    "level": 5
+  },
+  {
+    "word": "有名",
+    "meaning": "유명하다",
+    "furigana": "ゆうめい",
+    "romaji": "yūmei",
+    "level": 5
+  },
+  {
+    "word": "二十日",
+    "meaning": "이십일",
+    "furigana": "はつか",
+    "romaji": "hatsuka",
+    "level": 5
+  },
+  {
+    "word": "近い",
+    "meaning": "가깝다",
+    "furigana": "ちかい",
+    "romaji": "chikai",
+    "level": 5
+  },
+  {
+    "word": "ください",
+    "meaning": "주세요",
+    "furigana": "",
+    "romaji": "kudasai",
+    "level": 5
+  },
+  {
+    "word": "時計",
+    "meaning": "시계",
+    "furigana": "とけい",
+    "romaji": "tokei",
+    "level": 5
+  },
+  {
+    "word": "午後",
+    "meaning": "오후",
+    "furigana": "ごご",
+    "romaji": "gogo",
+    "level": 5
+  },
+  {
+    "word": "食べ物",
+    "meaning": "음식",
+    "furigana": "たべもの",
+    "romaji": "tabemono",
+    "level": 5
+  },
+  {
+    "word": "降る",
+    "meaning": "내리다",
+    "furigana": "ふる",
+    "romaji": "furu",
+    "level": 5
+  },
+  {
+    "word": "易しい",
+    "meaning": "쉽다",
+    "furigana": "やさしい",
+    "romaji": "yasashii",
+    "level": 5
+  },
+  {
+    "word": "大使館",
+    "meaning": "대사관",
+    "furigana": "たいしかん",
+    "romaji": "taishikan",
+    "level": 5
+  },
+  {
+    "word": "誰",
+    "meaning": "누구",
+    "furigana": "だれ",
+    "romaji": "dare",
+    "level": 5
+  },
+  {
+    "word": "上",
+    "meaning": "위",
+    "furigana": "うえ",
+    "romaji": "ue",
+    "level": 5
+  },
+  {
+    "word": "五",
+    "meaning": "다섯",
+    "furigana": "ご",
+    "romaji": "go",
+    "level": 5
+  },
+  {
+    "word": "十日",
+    "meaning": "십일",
+    "furigana": "とおか",
+    "romaji": "tōka",
+    "level": 5
+  },
+  {
+    "word": "どちら",
+    "meaning": "어느 쪽",
+    "furigana": "",
+    "romaji": "dochira",
+    "level": 5
+  },
+  {
+    "word": "プール",
+    "meaning": "수영장",
+    "furigana": "",
+    "romaji": "pūru",
+    "level": 5
+  },
+  {
+    "word": "小さい",
+    "meaning": "작다",
+    "furigana": "ちいさい",
+    "romaji": "chiisai",
+    "level": 5
+  },
+  {
+    "word": "今週",
+    "meaning": "이번 주",
+    "furigana": "こんしゅう",
+    "romaji": "konshū",
+    "level": 5
+  },
+  {
+    "word": "肉",
+    "meaning": "고기",
+    "furigana": "にく",
+    "romaji": "niku",
+    "level": 5
+  },
+  {
+    "word": "零",
+    "meaning": "영",
+    "furigana": "れい",
+    "romaji": "rei",
+    "level": 5
+  },
+  {
+    "word": "豚肉",
+    "meaning": "돼지고기",
+    "furigana": "ぶたにく",
+    "romaji": "butaniku",
+    "level": 5
+  },
+  {
+    "word": "広い",
+    "meaning": "넓다",
+    "furigana": "ひろい",
+    "romaji": "hiroi",
+    "level": 5
+  },
+  {
+    "word": "靴下",
+    "meaning": "양말",
+    "furigana": "くつした",
+    "romaji": "kutsushita",
+    "level": 5
+  },
+  {
+    "word": "一人",
+    "meaning": "한 사람",
+    "furigana": "ひとり",
+    "romaji": "hitori",
+    "level": 5
+  },
+  {
+    "word": "かぎ",
+    "meaning": "열쇠",
+    "furigana": "",
+    "romaji": "kagi",
+    "level": 5
+  },
+  {
+    "word": "向こう",
+    "meaning": "저쪽",
+    "furigana": "むこう",
+    "romaji": "mukō",
+    "level": 5
+  },
+  {
+    "word": "上手",
+    "meaning": "능숙하다",
+    "furigana": "じょうず",
+    "romaji": "jōzu",
+    "level": 5
+  },
+  {
+    "word": "牛肉",
+    "meaning": "쇠고기",
+    "furigana": "ぎゅうにく",
+    "romaji": "gyūniku",
+    "level": 5
+  },
+  {
+    "word": "話",
+    "meaning": "이야기",
+    "furigana": "はなし",
+    "romaji": "hanashi",
+    "level": 5
+  },
+  {
+    "word": "毎晩",
+    "meaning": "매일 밤",
+    "furigana": "まいばん",
+    "romaji": "maiban",
+    "level": 5
+  },
+  {
+    "word": "三つ",
+    "meaning": "셋",
+    "furigana": "みっつ",
+    "romaji": "mittsu",
+    "level": 5
+  },
+  {
+    "word": "吸う",
+    "meaning": "피우다",
+    "furigana": "すう",
+    "romaji": "sū",
+    "level": 5
+  },
+  {
+    "word": "銀行",
+    "meaning": "은행",
+    "furigana": "ぎんこう",
+    "romaji": "ginkō",
+    "level": 5
+  },
+  {
+    "word": "大切",
+    "meaning": "중요하다",
+    "furigana": "たいせつ",
+    "romaji": "taisetsu",
+    "level": 5
+  },
+  {
+    "word": "学生",
+    "meaning": "학생",
+    "furigana": "がくせい",
+    "romaji": "gakusei",
+    "level": 5
+  },
+  {
+    "word": "部屋",
+    "meaning": "방",
+    "furigana": "へや",
+    "romaji": "heya",
+    "level": 5
+  },
+  {
+    "word": "昼御飯",
+    "meaning": "점심",
+    "furigana": "ひるごはん",
+    "romaji": "hirugohan",
+    "level": 5
+  },
+  {
+    "word": "下",
+    "meaning": "아래",
+    "furigana": "した",
+    "romaji": "shita",
+    "level": 5
+  },
+  {
+    "word": "二つ",
+    "meaning": "둘",
+    "furigana": "ふたつ",
+    "romaji": "futatsu",
+    "level": 5
+  },
+  {
+    "word": "百",
+    "meaning": "백",
+    "furigana": "ひゃく",
+    "romaji": "hyaku",
+    "level": 5
+  },
+  {
+    "word": "地図",
+    "meaning": "지도",
+    "furigana": "ちず",
+    "romaji": "chizu",
+    "level": 5
+  },
+  {
+    "word": "八百屋",
+    "meaning": "채소가게",
+    "furigana": "やおや",
+    "romaji": "yaoya",
+    "level": 5
+  },
+  {
+    "word": "ネクタイ",
+    "meaning": "넥타이",
+    "furigana": "",
+    "romaji": "nekutai",
+    "level": 5
+  },
+  {
+    "word": "去年",
+    "meaning": "작년",
+    "furigana": "きょねん",
+    "romaji": "kyonen",
+    "level": 5
+  },
+  {
+    "word": "火曜日",
+    "meaning": "화요일",
+    "furigana": "かようび",
+    "romaji": "kayōbi",
+    "level": 5
+  },
+  {
+    "word": "乗る",
+    "meaning": "타다",
+    "furigana": "のる",
+    "romaji": "noru",
+    "level": 5
+  },
+  {
+    "word": "弟",
+    "meaning": "남동생",
+    "furigana": "おとうと",
+    "romaji": "otōto",
+    "level": 5
+  },
+  {
+    "word": "あなた",
+    "meaning": "당신",
+    "furigana": "",
+    "romaji": "anata",
+    "level": 5
+  },
+  {
+    "word": "千",
+    "meaning": "천",
+    "furigana": "せん",
+    "romaji": "sen",
+    "level": 5
+  },
+  {
+    "word": "緑",
+    "meaning": "초록",
+    "furigana": "みどり",
+    "romaji": "midori",
+    "level": 5
+  },
+  {
+    "word": "とり肉",
+    "meaning": "닭고기",
+    "furigana": "とりにく",
+    "romaji": "toriniku",
+    "level": 5
+  },
+  {
+    "word": "軽い",
+    "meaning": "가볍다",
+    "furigana": "かるい",
+    "romaji": "karui",
+    "level": 5
+  },
+  {
+    "word": "あまり",
+    "meaning": "그다지",
+    "furigana": "",
+    "romaji": "amari",
+    "level": 5
+  },
+  {
+    "word": "帽子",
+    "meaning": "모자",
+    "furigana": "ぼうし",
+    "romaji": "bōshi",
+    "level": 5
+  },
+  {
+    "word": "丈夫",
+    "meaning": "튼튼하다",
+    "furigana": "じょうぶ",
+    "romaji": "jōbu",
+    "level": 5
+  },
+  {
+    "word": "入れる",
+    "meaning": "넣다",
+    "furigana": "いれる",
+    "romaji": "ireru",
+    "level": 5
+  },
+  {
+    "word": "二十歳",
+    "meaning": "스무 살",
+    "furigana": "はたち",
+    "romaji": "hatachi",
+    "level": 5
+  },
+  {
+    "word": "三日",
+    "meaning": "삼일",
+    "furigana": "みっか",
+    "romaji": "mikka",
+    "level": 5
+  },
+  {
+    "word": "遠い",
+    "meaning": "멀다",
+    "furigana": "とおい",
+    "romaji": "tōi",
+    "level": 5
+  },
+  {
+    "word": "夏休み",
+    "meaning": "여름 방학",
+    "furigana": "なつやすみ",
+    "romaji": "natsuyasumi",
+    "level": 5
+  },
+  {
+    "word": "友達",
+    "meaning": "친구",
+    "furigana": "ともだち",
+    "romaji": "tomodachi",
+    "level": 5
+  },
+  {
+    "word": "横",
+    "meaning": "옆, 폭",
+    "furigana": "よこ",
+    "romaji": "yoko",
+    "level": 5
+  },
+  {
+    "word": "冷たい",
+    "meaning": "차갑다",
+    "furigana": "つめたい",
+    "romaji": "tsumetai",
+    "level": 5
+  },
+  {
+    "word": "夜",
+    "meaning": "밤",
+    "furigana": "よる",
+    "romaji": "yoru",
+    "level": 5
+  },
+  {
+    "word": "トイレ",
+    "meaning": "화장실",
+    "furigana": "",
+    "romaji": "toire",
+    "level": 5
+  },
+  {
+    "word": "おなか",
+    "meaning": "배",
+    "furigana": "",
+    "romaji": "onaka",
+    "level": 5
+  },
+  {
+    "word": "どこ",
+    "meaning": "어디",
+    "furigana": "",
+    "romaji": "doko",
+    "level": 5
+  },
+  {
+    "word": "暇",
+    "meaning": "여가",
+    "furigana": "ひま",
+    "romaji": "hima",
+    "level": 5
+  },
+  {
+    "word": "鳴く",
+    "meaning": "울다",
+    "furigana": "なく",
+    "romaji": "naku",
+    "level": 5
+  },
+  {
+    "word": "隣",
+    "meaning": "옆집",
+    "furigana": "となり",
+    "romaji": "tonari",
+    "level": 5
+  },
+  {
+    "word": "先生",
+    "meaning": "선생님",
+    "furigana": "せんせい",
+    "romaji": "sensei",
+    "level": 5
+  },
+  {
+    "word": "出口",
+    "meaning": "출구",
+    "furigana": "でぐち",
+    "romaji": "deguchi",
+    "level": 5
+  },
+  {
+    "word": "後ろ",
+    "meaning": "뒤",
+    "furigana": "うしろ",
+    "romaji": "ushiro",
+    "level": 5
+  },
+  {
+    "word": "先月",
+    "meaning": "지난달",
+    "furigana": "せんげつ",
+    "romaji": "sengetsu",
+    "level": 5
+  },
+  {
+    "word": "テープ",
+    "meaning": "테이프",
+    "furigana": "",
+    "romaji": "tēpu",
+    "level": 5
+  },
+  {
+    "word": "お姉さん",
+    "meaning": "언니",
+    "furigana": "おねえさん",
+    "romaji": "oneesan",
+    "level": 5
+  },
+  {
+    "word": "じゃ / じゃあ",
+    "meaning": "그럼",
+    "furigana": "",
+    "romaji": "ja / jaa",
+    "level": 5
+  },
+  {
+    "word": "本",
+    "meaning": "책",
+    "furigana": "ほん",
+    "romaji": "hon",
+    "level": 5
+  },
+  {
+    "word": "泳ぐ",
+    "meaning": "수영하다",
+    "furigana": "およぐ",
+    "romaji": "oyogu",
+    "level": 5
+  },
+  {
+    "word": "灰皿",
+    "meaning": "재떨이",
+    "furigana": "はいざら",
+    "romaji": "haizara",
+    "level": 5
+  },
+  {
+    "word": "門",
+    "meaning": "문",
+    "furigana": "もん",
+    "romaji": "mon",
+    "level": 5
+  },
+  {
+    "word": "荷物",
+    "meaning": "짐",
+    "furigana": "にもつ",
+    "romaji": "nimotsu",
+    "level": 5
+  },
+  {
+    "word": "この",
+    "meaning": "이",
+    "furigana": "",
+    "romaji": "kono",
+    "level": 5
+  },
+  {
+    "word": "書く",
+    "meaning": "쓰다",
+    "furigana": "かく",
+    "romaji": "kaku",
+    "level": 5
+  },
+  {
+    "word": "毎年",
+    "meaning": "매년",
+    "furigana": "まいねん / まいとし",
+    "romaji": "mainen / maitoshi",
+    "level": 5
+  },
+  {
+    "word": "明日",
+    "meaning": "내일",
+    "furigana": "あした",
+    "romaji": "ashita",
+    "level": 5
+  },
+  {
+    "word": "ホテル",
+    "meaning": "호텔",
+    "furigana": "",
+    "romaji": "hoteru",
+    "level": 5
+  },
+  {
+    "word": "降りる",
+    "meaning": "내리다",
+    "furigana": "おりる",
+    "romaji": "oriru",
+    "level": 5
+  },
+  {
+    "word": "重い",
+    "meaning": "무겁다",
+    "furigana": "おもい",
+    "romaji": "omoi",
+    "level": 5
+  },
+  {
+    "word": "電車",
+    "meaning": "전철",
+    "furigana": "でんしゃ",
+    "romaji": "densha",
+    "level": 5
+  },
+  {
+    "word": "痛い",
+    "meaning": "아프다",
+    "furigana": "いたい",
+    "romaji": "itai",
+    "level": 5
+  },
+  {
+    "word": "話す",
+    "meaning": "말하다",
+    "furigana": "はなす",
+    "romaji": "hanasu",
+    "level": 5
+  },
+  {
+    "word": "りっぱ",
+    "meaning": "훌륭하다",
+    "furigana": "",
+    "romaji": "rippa",
+    "level": 5
+  },
+  {
+    "word": "つまらない",
+    "meaning": "지루하다",
+    "furigana": "",
+    "romaji": "tsumaranai",
+    "level": 5
+  },
+  {
+    "word": "よく",
+    "meaning": "자주, 잘",
+    "furigana": "",
+    "romaji": "yoku",
+    "level": 5
+  },
+  {
+    "word": "嫌",
+    "meaning": "싫다",
+    "furigana": "いや",
+    "romaji": "iya",
+    "level": 5
+  },
+  {
+    "word": "宿題",
+    "meaning": "숙제",
+    "furigana": "しゅくだい",
+    "romaji": "shukudai",
+    "level": 5
+  },
+  {
+    "word": "死ぬ",
+    "meaning": "죽다",
+    "furigana": "しぬ",
+    "romaji": "shinu",
+    "level": 5
+  },
+  {
+    "word": "みんな",
+    "meaning": "모두",
+    "furigana": "",
+    "romaji": "minna",
+    "level": 5
+  },
+  {
+    "word": "万",
+    "meaning": "만",
+    "furigana": "まん",
+    "romaji": "man",
+    "level": 5
+  },
+  {
+    "word": "映画",
+    "meaning": "영화",
+    "furigana": "えいが",
+    "romaji": "eiga",
+    "level": 5
+  },
+  {
+    "word": "遅い",
+    "meaning": "늦다",
+    "furigana": "おそい",
+    "romaji": "osoi",
+    "level": 5
+  },
+  {
+    "word": "耳",
+    "meaning": "귀",
+    "furigana": "みみ",
+    "romaji": "mimi",
+    "level": 5
+  },
+  {
+    "word": "かかる",
+    "meaning": "걸리다",
+    "furigana": "",
+    "romaji": "kakaru",
+    "level": 5
+  },
+  {
+    "word": "でも",
+    "meaning": "하지만",
+    "furigana": "",
+    "romaji": "demo",
+    "level": 5
+  },
+  {
+    "word": "四つ",
+    "meaning": "넷",
+    "furigana": "よっつ",
+    "romaji": "yottsu",
+    "level": 5
+  },
+  {
+    "word": "机",
+    "meaning": "책상",
+    "furigana": "つくえ",
+    "romaji": "tsukue",
+    "level": 5
+  },
+  {
+    "word": "あっち",
+    "meaning": "저쪽",
+    "furigana": "",
+    "romaji": "atchi",
+    "level": 5
+  },
+  {
+    "word": "買う",
+    "meaning": "사다",
+    "furigana": "かう",
+    "romaji": "kau",
+    "level": 5
+  },
+  {
+    "word": "開く",
+    "meaning": "열리다",
+    "furigana": "あく",
+    "romaji": "aku",
+    "level": 5
+  },
+  {
+    "word": "教室",
+    "meaning": "교실",
+    "furigana": "きょうしつ",
+    "romaji": "kyōshitsu",
+    "level": 5
+  },
+  {
+    "word": "かばん",
+    "meaning": "가방",
+    "furigana": "",
+    "romaji": "kaban",
+    "level": 5
+  },
+  {
+    "word": "マッチ",
+    "meaning": "성냥",
+    "furigana": "",
+    "romaji": "matchi",
+    "level": 5
+  },
+  {
+    "word": "短い",
+    "meaning": "짧다",
+    "furigana": "みじかい",
+    "romaji": "mijikai",
+    "level": 5
+  },
+  {
+    "word": "姉",
+    "meaning": "언니",
+    "furigana": "あね",
+    "romaji": "ane",
+    "level": 5
+  },
+  {
+    "word": "大勢",
+    "meaning": "많은 사람",
+    "furigana": "おおぜい",
+    "romaji": "ōzei",
+    "level": 5
+  },
+  {
+    "word": "開ける",
+    "meaning": "열다",
+    "furigana": "あける",
+    "romaji": "akeru",
+    "level": 5
+  },
+  {
+    "word": "忙しい",
+    "meaning": "바쁘다",
+    "furigana": "いそがしい",
+    "romaji": "isogashii",
+    "level": 5
+  },
+  {
+    "word": "おばあさん",
+    "meaning": "할머니",
+    "furigana": "",
+    "romaji": "obaasan",
+    "level": 5
+  },
+  {
+    "word": "店",
+    "meaning": "가게",
+    "furigana": "みせ",
+    "romaji": "mise",
+    "level": 5
+  },
+  {
+    "word": "ワイシャツ",
+    "meaning": "와이셔츠",
+    "furigana": "",
+    "romaji": "waishatsu",
+    "level": 5
+  },
+  {
+    "word": "北",
+    "meaning": "북쪽",
+    "furigana": "きた",
+    "romaji": "kita",
+    "level": 5
+  },
+  {
+    "word": "ラジオ",
+    "meaning": "라디오",
+    "furigana": "",
+    "romaji": "rajio",
+    "level": 5
+  },
+  {
+    "word": "すぐに",
+    "meaning": "즉시",
+    "furigana": "",
+    "romaji": "suguni",
+    "level": 5
+  },
+  {
+    "word": "ハンカチ",
+    "meaning": "손수건",
+    "furigana": "",
+    "romaji": "hankachi",
+    "level": 5
+  },
+  {
+    "word": "いつ",
+    "meaning": "언제",
+    "furigana": "",
+    "romaji": "itsu",
+    "level": 5
+  },
+  {
+    "word": "全部",
+    "meaning": "전부",
+    "furigana": "ぜんぶ",
+    "romaji": "zenbu",
+    "level": 5
+  },
+  {
+    "word": "橋",
+    "meaning": "다리",
+    "furigana": "はし",
+    "romaji": "hashi",
+    "level": 5
+  },
+  {
+    "word": "川 / 河",
+    "meaning": "강",
+    "furigana": "かわ",
+    "romaji": "kawa",
+    "level": 5
+  },
+  {
+    "word": "バター",
+    "meaning": "버터",
+    "furigana": "",
+    "romaji": "batā",
+    "level": 5
+  },
+  {
+    "word": "もっと",
+    "meaning": "더",
+    "furigana": "",
+    "romaji": "motto",
+    "level": 5
+  },
+  {
+    "word": "入口",
+    "meaning": "입구",
+    "furigana": "いりぐち",
+    "romaji": "iriguchi",
+    "level": 5
+  },
+  {
+    "word": "など",
+    "meaning": "등",
+    "furigana": "",
+    "romaji": "nado",
+    "level": 5
+  },
+  {
+    "word": "太い",
+    "meaning": "뚱뚱하다",
+    "furigana": "ふとい",
+    "romaji": "futoi",
+    "level": 5
+  },
+  {
+    "word": "やる",
+    "meaning": "하다",
+    "furigana": "",
+    "romaji": "yaru",
+    "level": 5
+  },
+  {
+    "word": "自動車",
+    "meaning": "자동차",
+    "furigana": "じどうしゃ",
+    "romaji": "jidōsha",
+    "level": 5
+  },
+  {
+    "word": "昼",
+    "meaning": "정오, 낮",
+    "furigana": "ひる",
+    "romaji": "hiru",
+    "level": 5
+  },
+  {
+    "word": "色",
+    "meaning": "색",
+    "furigana": "いろ",
+    "romaji": "iro",
+    "level": 5
+  },
+  {
+    "word": "黄色",
+    "meaning": "노란색",
+    "furigana": "きいろ",
+    "romaji": "kiiro",
+    "level": 5
+  },
+  {
+    "word": "左",
+    "meaning": "왼쪽",
+    "furigana": "ひだり",
+    "romaji": "hidari",
+    "level": 5
+  },
+  {
+    "word": "野菜",
+    "meaning": "채소",
+    "furigana": "やさい",
+    "romaji": "yasai",
+    "level": 5
+  },
+  {
+    "word": "シャワー",
+    "meaning": "샤워",
+    "furigana": "",
+    "romaji": "shawā",
+    "level": 5
+  },
+  {
+    "word": "散歩",
+    "meaning": "산책하다",
+    "furigana": "さんぽする",
+    "romaji": "sanposuru",
+    "level": 5
+  },
+  {
+    "word": "三",
+    "meaning": "셋",
+    "furigana": "さん",
+    "romaji": "san",
+    "level": 5
+  },
+  {
+    "word": "消える",
+    "meaning": "사라지다",
+    "furigana": "きえる",
+    "romaji": "kieru",
+    "level": 5
+  },
+  {
+    "word": "映画館",
+    "meaning": "영화관",
+    "furigana": "えいがかん",
+    "romaji": "eigakan",
+    "level": 5
+  },
+  {
+    "word": "いす",
+    "meaning": "의자",
+    "furigana": "",
+    "romaji": "isu",
+    "level": 5
+  },
+  {
+    "word": "誕生日",
+    "meaning": "생일",
+    "furigana": "たんじょうび",
+    "romaji": "tanjōbi",
+    "level": 5
+  },
+  {
+    "word": "切る",
+    "meaning": "자르다",
+    "furigana": "きる",
+    "romaji": "kiru",
+    "level": 5
+  },
+  {
+    "word": "七日",
+    "meaning": "칠일",
+    "furigana": "なのか",
+    "romaji": "nanoka",
+    "level": 5
+  },
+  {
+    "word": "洗う",
+    "meaning": "씻다",
+    "furigana": "あらう",
+    "romaji": "arau",
+    "level": 5
+  },
+  {
+    "word": "あれ",
+    "meaning": "그것",
+    "furigana": "",
+    "romaji": "are",
+    "level": 5
+  },
+  {
+    "word": "グラム",
+    "meaning": "그램",
+    "furigana": "",
+    "romaji": "guramu",
+    "level": 5
+  },
+  {
+    "word": "習う",
+    "meaning": "배우다",
+    "furigana": "ならう",
+    "romaji": "narau",
+    "level": 5
+  },
+  {
+    "word": "後",
+    "meaning": "나중에",
+    "furigana": "あと",
+    "romaji": "ato",
+    "level": 5
+  },
+  {
+    "word": "猫",
+    "meaning": "고양이",
+    "furigana": "ねこ",
+    "romaji": "neko",
+    "level": 5
+  },
+  {
+    "word": "図書館",
+    "meaning": "도서관",
+    "furigana": "としょかん",
+    "romaji": "toshokan",
+    "level": 5
+  },
+  {
+    "word": "並べる",
+    "meaning": "정렬하다",
+    "furigana": "ならべる",
+    "romaji": "naraberu",
+    "level": 5
+  },
+  {
+    "word": "しかし",
+    "meaning": "하지만",
+    "furigana": "",
+    "romaji": "shikashi",
+    "level": 5
+  },
+  {
+    "word": "大きい",
+    "meaning": "크다",
+    "furigana": "おおきい",
+    "romaji": "ōkii",
+    "level": 5
+  },
+  {
+    "word": "八日",
+    "meaning": "팔일",
+    "furigana": "ようか",
+    "romaji": "yōka",
+    "level": 5
+  },
+  {
+    "word": "歩く",
+    "meaning": "걷다",
+    "furigana": "あるく",
+    "romaji": "aruku",
+    "level": 5
+  },
+  {
+    "word": "ズボン",
+    "meaning": "바지",
+    "furigana": "",
+    "romaji": "zubon",
+    "level": 5
+  },
+  {
+    "word": "九日",
+    "meaning": "구일",
+    "furigana": "ここのか",
+    "romaji": "kokonoka",
+    "level": 5
+  },
+  {
+    "word": "そっち",
+    "meaning": "그쪽",
+    "furigana": "",
+    "romaji": "sotchi",
+    "level": 5
+  },
+  {
+    "word": "たて",
+    "meaning": "길이, 높이",
+    "furigana": "",
+    "romaji": "tate",
+    "level": 5
+  },
+  {
+    "word": "カップ",
+    "meaning": "컵",
+    "furigana": "",
+    "romaji": "kappu",
+    "level": 5
+  },
+  {
+    "word": "あの",
+    "meaning": "저",
+    "furigana": "",
+    "romaji": "ano",
+    "level": 5
+  },
+  {
+    "word": "頼む",
+    "meaning": "부탁하다",
+    "furigana": "たのむ",
+    "romaji": "tanomu",
+    "level": 5
+  },
+  {
+    "word": "お兄さん",
+    "meaning": "오빠",
+    "furigana": "おにいさん",
+    "romaji": "oniisan",
+    "level": 5
+  },
+  {
+    "word": "手",
+    "meaning": "손",
+    "furigana": "て",
+    "romaji": "te",
+    "level": 5
+  },
+  {
+    "word": "ええ",
+    "meaning": "예",
+    "furigana": "",
+    "romaji": "ee",
+    "level": 5
+  },
+  {
+    "word": "毎日",
+    "meaning": "매일",
+    "furigana": "まいにち",
+    "romaji": "mainichi",
+    "level": 5
+  },
+  {
+    "word": "花",
+    "meaning": "꽃",
+    "furigana": "はな",
+    "romaji": "hana",
+    "level": 5
+  },
+  {
+    "word": "一",
+    "meaning": "하나",
+    "furigana": "いち",
+    "romaji": "ichi",
+    "level": 5
+  },
+  {
+    "word": "居る",
+    "meaning": "있다",
+    "furigana": "いる",
+    "romaji": "iru",
+    "level": 5
+  },
+  {
+    "word": "砂糖",
+    "meaning": "설탕",
+    "furigana": "さとう",
+    "romaji": "satō",
+    "level": 5
+  },
+  {
+    "word": "カレンダー",
+    "meaning": "달력",
+    "furigana": "",
+    "romaji": "karendā",
+    "level": 5
+  },
+  {
+    "word": "今",
+    "meaning": "지금",
+    "furigana": "いま",
+    "romaji": "ima",
+    "level": 5
+  },
+  {
+    "word": "旅行",
+    "meaning": "여행",
+    "furigana": "りょこう",
+    "romaji": "ryokō",
+    "level": 5
+  },
+  {
+    "word": "できる",
+    "meaning": "할 수 있다",
+    "furigana": "",
+    "romaji": "dekiru",
+    "level": 5
+  },
+  {
+    "word": "春",
+    "meaning": "봄",
+    "furigana": "はる",
+    "romaji": "haru",
+    "level": 5
+  },
+  {
+    "word": "する",
+    "meaning": "하다",
+    "furigana": "",
+    "romaji": "suru",
+    "level": 5
+  },
+  {
+    "word": "八つ",
+    "meaning": "여덟",
+    "furigana": "やっつ",
+    "romaji": "yattsu",
+    "level": 5
+  },
+  {
+    "word": "町",
+    "meaning": "마을, 도시",
+    "furigana": "まち",
+    "romaji": "machi",
+    "level": 5
+  },
+  {
+    "word": "渡す",
+    "meaning": "건네주다",
+    "furigana": "わたす",
+    "romaji": "watasu",
+    "level": 5
+  },
+  {
+    "word": "青",
+    "meaning": "파랑",
+    "furigana": "あお",
+    "romaji": "ao",
+    "level": 5
+  },
+  {
+    "word": "白",
+    "meaning": "하양",
+    "furigana": "しろ",
+    "romaji": "shiro",
+    "level": 5
+  },
+  {
+    "word": "ある",
+    "meaning": "있다",
+    "furigana": "",
+    "romaji": "aru",
+    "level": 5
+  },
+  {
+    "word": "ベッド",
+    "meaning": "침대",
+    "furigana": "",
+    "romaji": "beddo",
+    "level": 5
+  },
+  {
+    "word": "水",
+    "meaning": "물",
+    "furigana": "みず",
+    "romaji": "mizu",
+    "level": 5
+  },
+  {
+    "word": "いくつ",
+    "meaning": "몇 개?, 몇 살?",
+    "furigana": "",
+    "romaji": "ikutsu",
+    "level": 5
+  },
+  {
+    "word": "楽しい",
+    "meaning": "즐겁다",
+    "furigana": "たのしい",
+    "romaji": "tanoshii",
+    "level": 5
+  },
+  {
+    "word": "御飯",
+    "meaning": "밥",
+    "furigana": "ごはん",
+    "romaji": "gohan",
+    "level": 5
+  },
+  {
+    "word": "皆さん",
+    "meaning": "여러분",
+    "furigana": "みなさん",
+    "romaji": "minasan",
+    "level": 5
+  },
+  {
+    "word": "おいしい",
+    "meaning": "맛있다",
+    "furigana": "",
+    "romaji": "oishii",
+    "level": 5
+  },
+  {
+    "word": "ペット",
+    "meaning": "애완동물",
+    "furigana": "",
+    "romaji": "petto",
+    "level": 5
+  },
+  {
+    "word": "外",
+    "meaning": "밖",
+    "furigana": "そと",
+    "romaji": "soto",
+    "level": 5
+  },
+  {
+    "word": "前",
+    "meaning": "전",
+    "furigana": "まえ",
+    "romaji": "mae",
+    "level": 5
+  },
+  {
+    "word": "来る",
+    "meaning": "오다",
+    "furigana": "くる",
+    "romaji": "kuru",
+    "level": 5
+  },
+  {
+    "word": "おもしろい",
+    "meaning": "재미있다",
+    "furigana": "",
+    "romaji": "omoshiroi",
+    "level": 5
+  },
+  {
+    "word": "貸す",
+    "meaning": "빌려주다",
+    "furigana": "かす",
+    "romaji": "kasu",
+    "level": 5
+  },
+  {
+    "word": "早い",
+    "meaning": "이르다",
+    "furigana": "はやい",
+    "romaji": "hayai",
+    "level": 5
+  },
+  {
+    "word": "弱い",
+    "meaning": "약하다",
+    "furigana": "よわい",
+    "romaji": "yowai",
+    "level": 5
+  },
+  {
+    "word": "洗濯",
+    "meaning": "빨래",
+    "furigana": "せんたく",
+    "romaji": "sentaku",
+    "level": 5
+  },
+  {
+    "word": "九つ",
+    "meaning": "아홉",
+    "furigana": "ここのつ",
+    "romaji": "kokonotsu",
+    "level": 5
+  },
+  {
+    "word": "来年",
+    "meaning": "내년",
+    "furigana": "らいねん",
+    "romaji": "rainen",
+    "level": 5
+  },
+  {
+    "word": "眼鏡",
+    "meaning": "안경",
+    "furigana": "めがね",
+    "romaji": "megane",
+    "level": 5
+  },
+  {
+    "word": "背",
+    "meaning": "키",
+    "furigana": "せ",
+    "romaji": "se",
+    "level": 5
+  },
+  {
+    "word": "水曜日",
+    "meaning": "수요일",
+    "furigana": "すいようび",
+    "romaji": "suiyōbi",
+    "level": 5
+  },
+  {
+    "word": "お金",
+    "meaning": "돈",
+    "furigana": "おかね",
+    "romaji": "okane",
+    "level": 5
+  },
+  {
+    "word": "同じ",
+    "meaning": "같다",
+    "furigana": "おなじ",
+    "romaji": "onaji",
+    "level": 5
+  },
+  {
+    "word": "弾く",
+    "meaning": "연주하다",
+    "furigana": "ひく",
+    "romaji": "hiku",
+    "level": 5
+  },
+  {
+    "word": "土曜日",
+    "meaning": "토요일",
+    "furigana": "どようび",
+    "romaji": "doyōbi",
+    "level": 5
+  },
+  {
+    "word": "階段",
+    "meaning": "계단",
+    "furigana": "かいだん",
+    "romaji": "kaidan",
+    "level": 5
+  },
+  {
+    "word": "煩い",
+    "meaning": "시끄럽다",
+    "furigana": "うるさい",
+    "romaji": "urusai",
+    "level": 5
+  },
+  {
+    "word": "半分",
+    "meaning": "반",
+    "furigana": "はんぶん",
+    "romaji": "hanbun",
+    "level": 5
+  },
+  {
+    "word": "背広",
+    "meaning": "양복",
+    "furigana": "せびろ",
+    "romaji": "sebiro",
+    "level": 5
+  },
+  {
+    "word": "晴れ",
+    "meaning": "맑은 날씨",
+    "furigana": "はれ",
+    "romaji": "hare",
+    "level": 5
+  },
+  {
+    "word": "見せる",
+    "meaning": "보여주다",
+    "furigana": "みせる",
+    "romaji": "miseru",
+    "level": 5
+  },
+  {
+    "word": "飲み物",
+    "meaning": "음료수",
+    "furigana": "のみもの",
+    "romaji": "nomimono",
+    "level": 5
+  },
+  {
+    "word": "雪",
+    "meaning": "눈",
+    "furigana": "ゆき",
+    "romaji": "yuki",
+    "level": 5
+  },
+  {
+    "word": "買い物",
+    "meaning": "쇼핑",
+    "furigana": "かいもの",
+    "romaji": "kaimono",
+    "level": 5
+  },
+  {
+    "word": "交差点",
+    "meaning": "교차로",
+    "furigana": "こうさてん",
+    "romaji": "kōsaten",
+    "level": 5
+  },
+  {
+    "word": "駅",
+    "meaning": "역",
+    "furigana": "えき",
+    "romaji": "eki",
+    "level": 5
+  },
+  {
+    "word": "大丈夫",
+    "meaning": "괜찮다",
+    "furigana": "だいじょうぶ",
+    "romaji": "daijōbu",
+    "level": 5
+  },
+  {
+    "word": "ボールペン",
+    "meaning": "볼펜",
+    "furigana": "",
+    "romaji": "bōrupen",
+    "level": 5
+  },
+  {
+    "word": "勉強",
+    "meaning": "공부하다",
+    "furigana": "べんきょうする",
+    "romaji": "benkyōsuru",
+    "level": 5
+  },
+  {
+    "word": "兄弟",
+    "meaning": "형제자매",
+    "furigana": "きょうだい",
+    "romaji": "kyōdai",
+    "level": 5
+  },
+  {
+    "word": "封筒",
+    "meaning": "봉투",
+    "furigana": "ふうとう",
+    "romaji": "fūtō",
+    "level": 5
+  },
+  {
+    "word": "レコード",
+    "meaning": "레코드",
+    "furigana": "",
+    "romaji": "rekōdo",
+    "level": 5
+  },
+  {
+    "word": "コーヒー",
+    "meaning": "커피",
+    "furigana": "",
+    "romaji": "kōhī",
+    "level": 5
+  },
+  {
+    "word": "漢字",
+    "meaning": "한자",
+    "furigana": "かんじ",
+    "romaji": "kanji",
+    "level": 5
+  },
+  {
+    "word": "喫茶店",
+    "meaning": "커피숍",
+    "furigana": "きっさてん",
+    "romaji": "kissaten",
+    "level": 5
+  },
+  {
+    "word": "その",
+    "meaning": "그",
+    "furigana": "",
+    "romaji": "sono",
+    "level": 5
+  },
+  {
+    "word": "子供",
+    "meaning": "아이",
+    "furigana": "こども",
+    "romaji": "kodomo",
+    "level": 5
+  },
+  {
+    "word": "ちょっと",
+    "meaning": "조금",
+    "furigana": "",
+    "romaji": "chotto",
+    "level": 5
+  },
+  {
+    "word": "女の子",
+    "meaning": "여자아이",
+    "furigana": "おんなのこ",
+    "romaji": "onnanoko",
+    "level": 5
+  },
+  {
+    "word": "紙",
+    "meaning": "종이",
+    "furigana": "かみ",
+    "romaji": "kami",
+    "level": 5
+  },
+  {
+    "word": "字引",
+    "meaning": "사전",
+    "furigana": "じびき",
+    "romaji": "jibiki",
+    "level": 5
+  },
+  {
+    "word": "あさって",
+    "meaning": "모레",
+    "furigana": "",
+    "romaji": "asatte",
+    "level": 5
+  },
+  {
+    "word": "嫌い",
+    "meaning": "싫어하다",
+    "furigana": "きらい",
+    "romaji": "kirai",
+    "level": 5
+  },
+  {
+    "word": "先",
+    "meaning": "미래, 이전",
+    "furigana": "さき",
+    "romaji": "saki",
+    "level": 5
+  },
+  {
+    "word": "答える",
+    "meaning": "대답하다",
+    "furigana": "こたえる",
+    "romaji": "kotaeru",
+    "level": 5
+  },
+  {
+    "word": "食堂",
+    "meaning": "식당",
+    "furigana": "しょくどう",
+    "romaji": "shokudō",
+    "level": 5
+  },
+  {
+    "word": "テーブル",
+    "meaning": "테이블",
+    "furigana": "",
+    "romaji": "tēburu",
+    "level": 5
+  },
+  {
+    "word": "コピーする",
+    "meaning": "복사하다",
+    "furigana": "",
+    "romaji": "kopīsuru",
+    "level": 5
+  },
+  {
+    "word": "働く",
+    "meaning": "일하다",
+    "furigana": "はたらく",
+    "romaji": "hataraku",
+    "level": 5
+  },
+  {
+    "word": "こんな",
+    "meaning": "이런",
+    "furigana": "",
+    "romaji": "konna",
+    "level": 5
+  },
+  {
+    "word": "たくさん",
+    "meaning": "많이",
+    "furigana": "",
+    "romaji": "takusan",
+    "level": 5
+  },
+  {
+    "word": "ドア",
+    "meaning": "문",
+    "furigana": "",
+    "romaji": "doa",
+    "level": 5
+  },
+  {
+    "word": "見る  観る",
+    "meaning": "보다",
+    "furigana": "みる",
+    "romaji": "miru",
+    "level": 5
+  },
+  {
+    "word": "交番",
+    "meaning": "파출소",
+    "furigana": "こうばん",
+    "romaji": "kōban",
+    "level": 5
+  },
+  {
+    "word": "ナイフ",
+    "meaning": "칼",
+    "furigana": "",
+    "romaji": "naifu",
+    "level": 5
+  },
+  {
+    "word": "辛い",
+    "meaning": "맵다",
+    "furigana": "からい",
+    "romaji": "karai",
+    "level": 5
+  },
+  {
+    "word": "洋服",
+    "meaning": "양복",
+    "furigana": "ようふく",
+    "romaji": "yōfuku",
+    "level": 5
+  },
+  {
+    "word": "晩御飯",
+    "meaning": "저녁밥",
+    "furigana": "ばんごはん",
+    "romaji": "bangohan",
+    "level": 5
+  },
+  {
+    "word": "車",
+    "meaning": "차",
+    "furigana": "くるま",
+    "romaji": "kuruma",
+    "level": 5
+  },
+  {
+    "word": "ちょうど",
+    "meaning": "정확히",
+    "furigana": "",
+    "romaji": "chōdo",
+    "level": 5
+  },
+  {
+    "word": "もう一度",
+    "meaning": "다시",
+    "furigana": "もういちど",
+    "romaji": "mōichido",
+    "level": 5
+  },
+  {
+    "word": "ポスト",
+    "meaning": "우편",
+    "furigana": "",
+    "romaji": "posuto",
+    "level": 5
+  },
+  {
+    "word": "服",
+    "meaning": "옷",
+    "furigana": "ふく",
+    "romaji": "fuku",
+    "level": 5
+  },
+  {
+    "word": "メートル",
+    "meaning": "미터",
+    "furigana": "",
+    "romaji": "mētoru",
+    "level": 5
+  },
+  {
+    "word": "パン",
+    "meaning": "빵",
+    "furigana": "",
+    "romaji": "pan",
+    "level": 5
+  },
+  {
+    "word": "半",
+    "meaning": "반",
+    "furigana": "はん",
+    "romaji": "han",
+    "level": 5
+  },
+  {
+    "word": "若い",
+    "meaning": "젊다",
+    "furigana": "わかい",
+    "romaji": "wakai",
+    "level": 5
+  },
+  {
+    "word": "食べる",
+    "meaning": "먹다",
+    "furigana": "たべる",
+    "romaji": "taberu",
+    "level": 5
+  },
+  {
+    "word": "四日",
+    "meaning": "사일",
+    "furigana": "よっか",
+    "romaji": "yokka",
+    "level": 5
+  },
+  {
+    "word": "警官",
+    "meaning": "경찰관",
+    "furigana": "けいかん",
+    "romaji": "keikan",
+    "level": 5
+  },
+  {
+    "word": "伯父 / 叔父",
+    "meaning": "할아버지",
+    "furigana": "おじいさん",
+    "romaji": "ojiisan",
+    "level": 5
+  },
+  {
+    "word": "これ",
+    "meaning": "이것",
+    "furigana": "",
+    "romaji": "kore",
+    "level": 5
+  },
+  {
+    "word": "アパート",
+    "meaning": "아파트",
+    "furigana": "",
+    "romaji": "apāto",
+    "level": 5
+  },
+  {
+    "word": "鳥",
+    "meaning": "새",
+    "furigana": "とり",
+    "romaji": "tori",
+    "level": 5
+  },
+  {
+    "word": "ここ",
+    "meaning": "여기",
+    "furigana": "",
+    "romaji": "koko",
+    "level": 5
+  },
+  {
+    "word": "方",
+    "meaning": "사람, 방법",
+    "furigana": "かた",
+    "romaji": "kata",
+    "level": 5
+  },
+  {
+    "word": "タクシー",
+    "meaning": "택시",
+    "furigana": "",
+    "romaji": "takushī",
+    "level": 5
+  },
+  {
+    "word": "では",
+    "meaning": "그럼...",
+    "furigana": "",
+    "romaji": "deha",
+    "level": 5
+  },
+  {
+    "word": "しょうゆ",
+    "meaning": "간장",
+    "furigana": "",
+    "romaji": "shōyu",
+    "level": 5
+  },
+  {
+    "word": "少ない",
+    "meaning": "적다",
+    "furigana": "すくない",
+    "romaji": "sukunai",
+    "level": 5
+  },
+  {
+    "word": "白い",
+    "meaning": "하얀",
+    "furigana": "しろい",
+    "romaji": "shiroi",
+    "level": 5
+  },
+  {
+    "word": "待つ",
+    "meaning": "기다리다",
+    "furigana": "まつ",
+    "romaji": "matsu",
+    "level": 5
+  },
+  {
+    "word": "次",
+    "meaning": "다음",
+    "furigana": "つぎ",
+    "romaji": "tsugi",
+    "level": 5
+  },
+  {
+    "word": "行く",
+    "meaning": "가다",
+    "furigana": "いく",
+    "romaji": "iku",
+    "level": 5
+  },
+  {
+    "word": "角",
+    "meaning": "모퉁이",
+    "furigana": "かど",
+    "romaji": "kado",
+    "level": 5
+  },
+  {
+    "word": "男",
+    "meaning": "남자",
+    "furigana": "おとこ",
+    "romaji": "otoko",
+    "level": 5
+  },
+  {
+    "word": "ギター",
+    "meaning": "기타",
+    "furigana": "",
+    "romaji": "gitā",
+    "level": 5
+  },
+  {
+    "word": "聞く",
+    "meaning": "듣다",
+    "furigana": "きく",
+    "romaji": "kiku",
+    "level": 5
+  },
+  {
+    "word": "走る",
+    "meaning": "달리다",
+    "furigana": "はしる",
+    "romaji": "hashiru",
+    "level": 5
+  },
+  {
+    "word": "お母さん",
+    "meaning": "어머니",
+    "furigana": "おかあさん",
+    "romaji": "okaasan",
+    "level": 5
+  },
+  {
+    "word": "意味",
+    "meaning": "의미",
+    "furigana": "いみ",
+    "romaji": "imi",
+    "level": 5
+  },
+  {
+    "word": "物",
+    "meaning": "물건",
+    "furigana": "もの",
+    "romaji": "mono",
+    "level": 5
+  },
+  {
+    "word": "強い",
+    "meaning": "강하다",
+    "furigana": "つよい",
+    "romaji": "tsuyoi",
+    "level": 5
+  },
+  {
+    "word": "魚",
+    "meaning": "생선",
+    "furigana": "さかな",
+    "romaji": "sakana",
+    "level": 5
+  },
+  {
+    "word": "切手",
+    "meaning": "우표",
+    "furigana": "きって",
+    "romaji": "kitte",
+    "level": 5
+  },
+  {
+    "word": "暗い",
+    "meaning": "어둡다",
+    "furigana": "くらい",
+    "romaji": "kurai",
+    "level": 5
+  },
+  {
+    "word": "出る",
+    "meaning": "나타나다, 나가다",
+    "furigana": "でる",
+    "romaji": "deru",
+    "level": 5
+  },
+  {
+    "word": "犬",
+    "meaning": "개",
+    "furigana": "いぬ",
+    "romaji": "inu",
+    "level": 5
+  },
+  {
+    "word": "女",
+    "meaning": "여자",
+    "furigana": "おんな",
+    "romaji": "onna",
+    "level": 5
+  },
+  {
+    "word": "飛行機",
+    "meaning": "비행기",
+    "furigana": "ひこうき",
+    "romaji": "hikōki",
+    "level": 5
+  },
+  {
+    "word": "日曜日",
+    "meaning": "일요일",
+    "furigana": "にちようび",
+    "romaji": "nichiyōbi",
+    "level": 5
+  },
+  {
+    "word": "より、ほう",
+    "meaning": "비교할 때 사용",
+    "furigana": "",
+    "romaji": "yori,hō",
+    "level": 5
+  },
+  {
+    "word": "午前",
+    "meaning": "오전",
+    "furigana": "ごぜん",
+    "romaji": "gozen",
+    "level": 5
+  },
+  {
+    "word": "名前",
+    "meaning": "이름",
+    "furigana": "なまえ",
+    "romaji": "namae",
+    "level": 5
+  },
+  {
+    "word": "丸い / 円い",
+    "meaning": "둥글다",
+    "furigana": "まるい",
+    "romaji": "marui",
+    "level": 5
+  },
+  {
+    "word": "曲る",
+    "meaning": "돌다",
+    "furigana": "まがる",
+    "romaji": "magaru",
+    "level": 5
+  },
+  {
+    "word": "鼻",
+    "meaning": "코",
+    "furigana": "はな",
+    "romaji": "hana",
+    "level": 5
+  },
+  {
+    "word": "お弁当",
+    "meaning": "도시락",
+    "furigana": "おべんとう",
+    "romaji": "obentō",
+    "level": 5
+  },
+  {
+    "word": "コップ",
+    "meaning": "유리컵",
+    "furigana": "",
+    "romaji": "koppu",
+    "level": 5
+  },
+  {
+    "word": "結婚",
+    "meaning": "결혼",
+    "furigana": "けっこん",
+    "romaji": "kekkon",
+    "level": 5
+  },
+  {
+    "word": "置く",
+    "meaning": "놓다",
+    "furigana": "おく",
+    "romaji": "oku",
+    "level": 5
+  },
+  {
+    "word": "渡る",
+    "meaning": "건너다",
+    "furigana": "わたる",
+    "romaji": "wataru",
+    "level": 5
+  },
+  {
+    "word": "伯母さん / 叔母さん",
+    "meaning": "이모, 고모",
+    "furigana": "おばさん",
+    "romaji": "obasan",
+    "level": 5
+  },
+  {
+    "word": "それから",
+    "meaning": "그 후",
+    "furigana": "",
+    "romaji": "sorekara",
+    "level": 5
+  },
+  {
+    "word": "明い",
+    "meaning": "밝다",
+    "furigana": "あかるい",
+    "romaji": "akarui",
+    "level": 5
+  },
+  {
+    "word": "家庭",
+    "meaning": "가정",
+    "furigana": "かてい",
+    "romaji": "katei",
+    "level": 5
+  },
+  {
+    "word": "パーティー",
+    "meaning": "파티",
+    "furigana": "",
+    "romaji": "pātī",
+    "level": 5
+  },
+  {
+    "word": "あちら",
+    "meaning": "저기",
+    "furigana": "",
+    "romaji": "achira",
+    "level": 5
+  },
+  {
+    "word": "スカート",
+    "meaning": "치마",
+    "furigana": "",
+    "romaji": "sukāto",
+    "level": 5
+  },
+  {
+    "word": "靴",
+    "meaning": "신발",
+    "furigana": "くつ",
+    "romaji": "kutsu",
+    "level": 5
+  },
+  {
+    "word": "ボタン",
+    "meaning": "단추",
+    "furigana": "",
+    "romaji": "botan",
+    "level": 5
+  },
+  {
+    "word": "今月",
+    "meaning": "이번 달",
+    "furigana": "こんげつ",
+    "romaji": "kongetsu",
+    "level": 5
+  },
+  {
+    "word": "返す",
+    "meaning": "돌려주다",
+    "furigana": "かえす",
+    "romaji": "kaesu",
+    "level": 5
+  },
+  {
+    "word": "いかが",
+    "meaning": "어떻게",
+    "furigana": "",
+    "romaji": "ikaga",
+    "level": 5
+  },
+  {
+    "word": "ストーブ",
+    "meaning": "히터",
+    "furigana": "",
+    "romaji": "sutōbu",
+    "level": 5
+  },
+  {
+    "word": "二人",
+    "meaning": "두 사람",
+    "furigana": "ふたり",
+    "romaji": "futari",
+    "level": 5
+  },
+  {
+    "word": "起きる",
+    "meaning": "일어나다",
+    "furigana": "おきる",
+    "romaji": "okiru",
+    "level": 5
+  },
+  {
+    "word": "さあ",
+    "meaning": "자...",
+    "furigana": "",
+    "romaji": "saa",
+    "level": 5
+  },
+  {
+    "word": "あそこ",
+    "meaning": "저기",
+    "furigana": "",
+    "romaji": "asoko",
+    "level": 5
+  },
+  {
+    "word": "古い",
+    "meaning": "오래된",
+    "furigana": "ふるい",
+    "romaji": "furui",
+    "level": 5
+  },
+  {
+    "word": "黄色い",
+    "meaning": "노란",
+    "furigana": "きいろい",
+    "romaji": "kiiroi",
+    "level": 5
+  },
+  {
+    "word": "まだ",
+    "meaning": "아직",
+    "furigana": "",
+    "romaji": "mada",
+    "level": 5
+  },
+  {
+    "word": "歌う",
+    "meaning": "노래하다",
+    "furigana": "うたう",
+    "romaji": "utau",
+    "level": 5
+  },
+  {
+    "word": "飴",
+    "meaning": "사탕",
+    "furigana": "あめ",
+    "romaji": "ame",
+    "level": 5
+  },
+  {
+    "word": "寝る",
+    "meaning": "자다",
+    "furigana": "ねる",
+    "romaji": "neru",
+    "level": 5
+  },
+  {
+    "word": "それ",
+    "meaning": "그것",
+    "furigana": "",
+    "romaji": "sore",
+    "level": 5
+  },
+  {
+    "word": "質問",
+    "meaning": "질문",
+    "furigana": "しつもん",
+    "romaji": "shitsumon",
+    "level": 5
+  },
+  {
+    "word": "どなた",
+    "meaning": "누구",
+    "furigana": "",
+    "romaji": "donata",
+    "level": 5
+  },
+  {
+    "word": "牛乳",
+    "meaning": "우유",
+    "furigana": "ぎゅうにゅう",
+    "romaji": "gyūnyū",
+    "level": 5
+  },
+  {
+    "word": "二",
+    "meaning": "둘",
+    "furigana": "に",
+    "romaji": "ni",
+    "level": 5
+  },
+  {
+    "word": "紅茶",
+    "meaning": "홍차",
+    "furigana": "こうちゃ",
+    "romaji": "kōcha",
+    "level": 5
+  },
+  {
+    "word": "そちら",
+    "meaning": "그쪽",
+    "furigana": "",
+    "romaji": "sochira",
+    "level": 5
+  },
+  {
+    "word": "出かける",
+    "meaning": "나가다",
+    "furigana": "でかける",
+    "romaji": "dekakeru",
+    "level": 5
+  },
+  {
+    "word": "兄",
+    "meaning": "형",
+    "furigana": "あに",
+    "romaji": "ani",
+    "level": 5
+  },
+  {
+    "word": "留学生",
+    "meaning": "유학생",
+    "furigana": "りゅうがくせい",
+    "romaji": "ryūgakusei",
+    "level": 5
+  },
+  {
+    "word": "月曜日",
+    "meaning": "월요일",
+    "furigana": "げつようび",
+    "romaji": "getsuyōbi",
+    "level": 5
+  },
+  {
+    "word": "締める",
+    "meaning": "묶다",
+    "furigana": "しめる",
+    "romaji": "shimeru",
+    "level": 5
+  },
+  {
+    "word": "熱い",
+    "meaning": "뜨겁다",
+    "furigana": "あつい",
+    "romaji": "atsui",
+    "level": 5
+  },
+  {
+    "word": "郵便局",
+    "meaning": "우체국",
+    "furigana": "ゆうびんきょく",
+    "romaji": "yūbinkyoku",
+    "level": 5
+  },
+  {
+    "word": "細い",
+    "meaning": "얇다",
+    "furigana": "ほそい",
+    "romaji": "hosoi",
+    "level": 5
+  },
+  {
+    "word": "六つ",
+    "meaning": "여섯",
+    "furigana": "むっつ",
+    "romaji": "muttsu",
+    "level": 5
+  },
+  {
+    "word": "本棚",
+    "meaning": "책장",
+    "furigana": "ほんだな",
+    "romaji": "hondana",
+    "level": 5
+  },
+  {
+    "word": "結構",
+    "meaning": "훌륭하다, 충분하다",
+    "furigana": "けっこう",
+    "romaji": "kekkō",
+    "level": 5
+  },
+  {
+    "word": "こちら",
+    "meaning": "이쪽",
+    "furigana": "",
+    "romaji": "kochira",
+    "level": 5
+  },
+  {
+    "word": "昨夜",
+    "meaning": "어젯밤",
+    "furigana": "ゆうべ",
+    "romaji": "yūbe",
+    "level": 5
+  },
+  {
+    "word": "外国人",
+    "meaning": "외국인",
+    "furigana": "がいこくじん",
+    "romaji": "gaikokujin",
+    "level": 5
+  },
+  {
+    "word": "絵",
+    "meaning": "그림",
+    "furigana": "え",
+    "romaji": "e",
+    "level": 5
+  },
+  {
+    "word": "使う",
+    "meaning": "쓰다",
+    "furigana": "つかう",
+    "romaji": "tsukau",
+    "level": 5
+  },
+  {
+    "word": "休む",
+    "meaning": "쉬다",
+    "furigana": "やすむ",
+    "romaji": "yasumu",
+    "level": 5
+  },
+  {
+    "word": "テスト",
+    "meaning": "시험",
+    "furigana": "",
+    "romaji": "tesuto",
+    "level": 5
+  },
+  {
+    "word": "貼る",
+    "meaning": "붙이다",
+    "furigana": "はる",
+    "romaji": "haru",
+    "level": 5
+  },
+  {
+    "word": "たばこ",
+    "meaning": "담배",
+    "furigana": "",
+    "romaji": "tabako",
+    "level": 5
+  },
+  {
+    "word": "涼しい",
+    "meaning": "시원하다",
+    "furigana": "すずしい",
+    "romaji": "suzushii",
+    "level": 5
+  },
+  {
+    "word": "昨日",
+    "meaning": "어제",
+    "furigana": "きのう",
+    "romaji": "kinō",
+    "level": 5
+  },
+  {
+    "word": "せっけん",
+    "meaning": "비누",
+    "furigana": "",
+    "romaji": "sekken",
+    "level": 5
+  },
+  {
+    "word": "初め / 始め",
+    "meaning": "시작",
+    "furigana": "はじめ",
+    "romaji": "hajime",
+    "level": 5
+  }
+]

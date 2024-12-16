@@ -16,11 +16,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className="antialiased">
-        <div className="flex flex-col items-center justify-center h-screen">
-          <main className="flex flex-col h-full w-full max-w-[900px] px-4">
-            <Appbar />
-            {children}
+      <body className="antialiased overflow-scroll">
+        <div className="flex flex-col items-center justify-center min-h-screen">
+          <Appbar />
+          <main className="flex flex-col flex-1 w-full max-w-[900px] px-4">
+            <div className="flex-1">{children}</div>
           </main>
           <Footer />
         </div>
