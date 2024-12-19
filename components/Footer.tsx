@@ -13,6 +13,7 @@ const Footer = () => {
     copy(EMAIL);
     toast({
       title: "이메일이 복사 되었습니다.",
+      description: state.value ?? "",
     });
   };
 
