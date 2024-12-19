@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { Button } from "./ui/button";
+import SubscribePopup from "./SubscribePopup";
 
 const Appbar = () => {
   return (
@@ -14,9 +15,11 @@ const Appbar = () => {
           <Button variant="ghost" size="sm" className="rounded-full">
             후원하기
           </Button>
-          <Button size="lg" className="rounded-full font-bold">
-            무료 구독하기
-          </Button>
+          <SubscribePopup>
+            <Button size="lg" className="rounded-full font-bold">
+              무료 구독하기
+            </Button>
+          </SubscribePopup>
         </div>
       </div>
     </header>
