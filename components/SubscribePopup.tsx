@@ -41,9 +41,12 @@ const SubscribePopup = ({ children }: SubscribePopupProps) => {
           </div>
 
           <div className="flex flex-col gap-3">
-            <Label htmlFor="levels" className="font-bold">
-              출제범위
-            </Label>
+            <div className="flex gap-3 items-center">
+              <Label htmlFor="levels" className="font-bold">
+                출제범위
+              </Label>
+              <sub className="text-gray-400">*복수 선택 가능</sub>
+            </div>
             <ToggleGroup
               type="multiple"
               variant="outline"
