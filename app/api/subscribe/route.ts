@@ -29,7 +29,7 @@ function calculateExpiryTime(): Timestamp {
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    const { email } = body;
+    const { email, dailyAmount, categories } = body;
 
     // 이메일 필수값 검증
     if (!email) {

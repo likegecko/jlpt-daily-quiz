@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { ReactNode, useState } from "react";
 import {
   Dialog,
   DialogContent,
@@ -12,11 +12,38 @@ import { Input } from "./ui/input";
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group";
 import { Button } from "./ui/button";
 
+import http from "axios";
+import Spinner from "./Spinner";
+
 type SubscribePopupProps = {
   children: ReactNode;
 };
 
 const SubscribePopup = ({ children }: SubscribePopupProps) => {
+  const [email, setEmail] = useState("");
+  const [categories, setCategories] = useState<string[]>([]);
+  const [dailyAmount, setDailyAmount] = useState("10");
+
+  const [loading, setLoading] = useState(false);
+
+  const handleRequestEmailValidate = async () => {
+    setLoading(false);
+
+    try {
+      const res = await http.post("/api/subscribe", {
+        email,
+        categories,
+        dailyAmount,
+      });
+
+      console.log(res);
+    } catch (error) {
+      console.error(error);
+    }
+
+    setLoading(false);
+  };
+
   return (
     <Dialog>
       <DialogTrigger asChild>{children}</DialogTrigger>
@@ -36,21 +63,28 @@ const SubscribePopup = ({ children }: SubscribePopupProps) => {
             <Input
               id="email"
               type="email"
+              value={email}
+              disabled={loading}
+              onChange={(event) => setEmail(event.target.value)}
               placeholder="올바른 이메일을 입력해 주세요."
             />
           </div>
 
           <div className="flex flex-col gap-3">
             <div className="flex gap-3 items-center">
-              <Label htmlFor="levels" className="font-bold">
+              <Label htmlFor="categories" className="font-bold">
                 출제범위
               </Label>
               <sub className="text-gray-400">*복수 선택 가능</sub>
             </div>
             <ToggleGroup
+              id="categories"
               type="multiple"
               variant="outline"
               size="lg"
+              value={categories}
+              disabled={loading}
+              onValueChange={(value) => setCategories(value)}
               className="justify-start"
             >
               <ToggleGroupItem value="n5" aria-label="N5" className="font-bold">
@@ -75,11 +109,23 @@ const SubscribePopup = ({ children }: SubscribePopupProps) => {
             <Label htmlFor="daily_amount" className="font-bold">
               일일문항수
             </Label>
-            <Input id="daily_amount" type="number" />
+            <Input
+              id="daily_amount"
+              type="number"
+              value={dailyAmount}
+              disabled={loading}
+              onChange={(event) => setDailyAmount(event.target.value)}
+            />
           </div>
         </div>
 
-        <Button size="lg">구독</Button>
+        <Button
+          size="lg"
+          disabled={loading || !email || !categories.length || !dailyAmount}
+          onClick={handleRequestEmailValidate}
+        >
+          {loading ? <Spinner /> : "구독"}
+        </Button>
       </DialogContent>
     </Dialog>
   );
