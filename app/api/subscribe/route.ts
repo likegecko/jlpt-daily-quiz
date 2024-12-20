@@ -1,4 +1,3 @@
-// app/api/subscribe/route.ts
 import { NextResponse } from "next/server";
 import { db } from "@/lib/firebase";
 import {
@@ -9,17 +8,14 @@ import {
   addDoc,
   Timestamp,
 } from "firebase/firestore";
+import { sendVerificationEmail } from "@/lib/resend";
 
-// 인증 코드 관련 상수
 const VERIFICATION_EXPIRY_MINUTES = 10;
 
-// 인증 코드 생성 함수
 function generateVerificationCode(): string {
-  // 100000-999999 사이의 랜덤한 6자리 숫자 생성
   return Math.floor(100000 + Math.random() * 900000).toString();
 }
 
-// 만료 시간 계산 함수
 function calculateExpiryTime(): Timestamp {
   const expiredAt = new Date();
   expiredAt.setMinutes(expiredAt.getMinutes() + VERIFICATION_EXPIRY_MINUTES);
@@ -29,9 +25,8 @@ function calculateExpiryTime(): Timestamp {
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    const { email, dailyAmount, categories } = body;
+    const { email } = body;
 
-    // 이메일 필수값 검증
     if (!email) {
       return NextResponse.json(
         { error: "이메일은 필수입니다." },
@@ -39,7 +34,6 @@ export async function POST(request: Request) {
       );
     }
 
-    // 이메일 형식 검증
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailRegex.test(email)) {
       return NextResponse.json(
@@ -48,7 +42,6 @@ export async function POST(request: Request) {
       );
     }
 
-    // 이미 구독중인 이메일인지 확인
     const subscribersRef = collection(db, "subscribers");
     const q = query(subscribersRef, where("email", "==", email));
     const querySnapshot = await getDocs(q);
@@ -60,7 +53,6 @@ export async function POST(request: Request) {
       );
     }
 
-    // 이전 인증 시도가 있다면 만료 여부 확인
     const verificationRef = collection(db, "verificationTemp");
     const existingVerificationQuery = query(
       verificationRef,
@@ -68,7 +60,6 @@ export async function POST(request: Request) {
     );
     const existingVerification = await getDocs(existingVerificationQuery);
 
-    // 이전 인증 시도가 있으면서 아직 만료되지 않은 경우
     if (!existingVerification.empty) {
       const doc = existingVerification.docs[0];
       const data = doc.data();
@@ -88,7 +79,6 @@ export async function POST(request: Request) {
       }
     }
 
-    // 새로운 인증 코드 생성 및 저장
     const verificationCode = generateVerificationCode();
     const expiredAt = calculateExpiryTime();
 
@@ -99,7 +89,7 @@ export async function POST(request: Request) {
       createdAt: Timestamp.now(),
     });
 
-    // TODO: 이메일 발송 로직 추가 필요
+    await sendVerificationEmail(email, verificationCode);
 
     return NextResponse.json(
       {
