@@ -1,16 +1,17 @@
-import { ReactNode, useState } from "react";
+import { useState } from "react";
 import { Dialog, DialogTrigger } from "@/components/ui/dialog";
 import SubscribeForm from "./SubscribeForm";
 import VerificationForm from "./VerificationForm";
 import Success from "./Success";
+import { Button } from "@/components/ui/button";
 
-type SubscribePopupProps = {
-  children: ReactNode;
-};
-
-const SubscribePopup = ({ children }: SubscribePopupProps) => {
+const SubscribePopup = () => {
   const [step, setStep] = useState(1);
   const [email, setEmail] = useState("test@test.com");
+  const [categories, setCategories] = useState<string[]>([]);
+  const [dailyAmount, setDailyAmount] = useState<number>(10);
+
+  const [open, setOpen] = useState(false);
 
   const toNextStep = () => {
     setStep(step + 1);
@@ -19,13 +20,24 @@ const SubscribePopup = ({ children }: SubscribePopupProps) => {
   const toPrevStep = () => {
     setStep(step - 1);
   };
+
   return (
-    <Dialog>
-      <DialogTrigger asChild>{children}</DialogTrigger>
+    <Dialog open={open} onOpenChange={setOpen}>
+      <DialogTrigger>
+        <Button size="lg" className="rounded-full font-bold">
+          무료 구독하기
+        </Button>
+      </DialogTrigger>
       {step === 1 && (
         <SubscribeForm
-          onSubmit={(email: string) => {
+          onSubmit={(
+            email: string,
+            categories: string[],
+            dailyAmount: number
+          ) => {
             setEmail(email);
+            setCategories(categories);
+            setDailyAmount(dailyAmount);
             toNextStep();
           }}
         />
@@ -33,11 +45,13 @@ const SubscribePopup = ({ children }: SubscribePopupProps) => {
       {step === 2 && (
         <VerificationForm
           email={email}
+          categories={categories}
+          dailyAmount={dailyAmount}
           toNextStep={toNextStep}
           toPrevStep={toPrevStep}
         />
       )}
-      {step === 3 && <Success onClosePopup={() => {}} />}
+      {step === 3 && <Success onClosePopup={() => setOpen(false)} />}
     </Dialog>
   );
 };

@@ -12,6 +12,8 @@ import http from "axios";
 
 type VerificationFormProps = {
   email: string;
+  categories: string[];
+  dailyAmount: number;
   toNextStep: () => void;
   toPrevStep: () => void;
 };
@@ -20,6 +22,8 @@ const CODE_LENGTH = 6;
 
 const VerificationForm = ({
   email,
+  categories,
+  dailyAmount,
   toNextStep,
   toPrevStep,
 }: VerificationFormProps) => {
@@ -34,6 +38,8 @@ const VerificationForm = ({
     try {
       const res = await http.post("/api/subscribe/verify", {
         email,
+        categories,
+        dailyAmount,
         code,
       });
 
@@ -52,7 +58,7 @@ const VerificationForm = ({
     }
 
     setLoading(false);
-  }, [code, email, loading, toNextStep]);
+  }, [code, email, loading, toNextStep, categories, dailyAmount]);
 
   useEffect(() => {
     if (code.length === CODE_LENGTH && !loading) {

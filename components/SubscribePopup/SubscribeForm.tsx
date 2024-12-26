@@ -14,7 +14,7 @@ import { useState } from "react";
 import http from "axios";
 
 type SubscribeFormProps = {
-  onSubmit: (email: string) => void;
+  onSubmit: (email: string, categories: string[], dailyAmount: number) => void;
 };
 
 const SubscribeForm = ({ onSubmit }: SubscribeFormProps) => {
@@ -33,7 +33,7 @@ const SubscribeForm = ({ onSubmit }: SubscribeFormProps) => {
         categories,
         dailyAmount,
       });
-      onSubmit(email);
+      onSubmit(email, categories, Number(dailyAmount));
 
       console.log(res);
     } catch (error) {

@@ -15,11 +15,7 @@ const Appbar = () => {
           <Button variant="ghost" size="sm" className="rounded-full">
             후원하기
           </Button>
-          <SubscribePopup>
-            <Button size="lg" className="rounded-full font-bold">
-              무료 구독하기
-            </Button>
-          </SubscribePopup>
+          <SubscribePopup />
         </div>
       </div>
     </header>
