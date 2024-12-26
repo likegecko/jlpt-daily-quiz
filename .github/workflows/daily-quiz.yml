@@ -1,0 +1,24 @@
+# .github/workflows/daily-quiz.yml
+name: Daily Quiz Delivery
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # UTC 기준 매일 자정 (한국 시간 오전 9시)
+  workflow_dispatch: # 수동 실행도 가능하도록 설정
+
+jobs:
+  send-daily-quiz:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send daily quiz
+        run: |
+          curl -X POST ${{ secrets.VERCEL_DEPLOYMENT_URL }}/api/daily-quiz/send \
+          -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+          -H "Content-Type: application/json"
+
+      - name: Check response
+        if: ${{ failure() }}
+        run: |
+          echo "Daily quiz delivery failed"
+          exit 1
