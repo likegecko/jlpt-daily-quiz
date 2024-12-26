@@ -1,10 +1,9 @@
-# .github/workflows/daily-quiz.yml
 name: Daily Quiz Delivery
 
 on:
   schedule:
     - cron: "0 0 * * *" # UTC 기준 매일 자정 (한국 시간 오전 9시)
-  workflow_dispatch: # 수동 실행도 가능하도록 설정
+  workflow_dispatch: # 수동 실행 옵션 추가
 
 jobs:
   send-daily-quiz:
@@ -13,12 +12,19 @@ jobs:
     steps:
       - name: Send daily quiz
         run: |
-          curl -X POST ${{ secrets.BASE_URL }}/api/quizs/send \
-          -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
-          -H "Content-Type: application/json"
+          response=$(curl -X POST \
+            ${{ secrets.BASE_URL }}/api/quizs/send \
+            -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
+            -H "Content-Type: application/json" \
+            -w "\n%{http_code}")
 
-      - name: Check response
-        if: ${{ failure() }}
-        run: |
-          echo "Daily quiz delivery failed"
-          exit 1
+          http_code=$(echo "$response" | tail -n1)
+          body=$(echo "$response" | sed '$d')
+
+          echo "Response body: $body"
+          echo "Status code: $http_code"
+
+          if [ "$http_code" != "200" ]; then
+            echo "Failed to send daily quiz"
+            exit 1
+          fi

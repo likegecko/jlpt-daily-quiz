@@ -44,7 +44,7 @@ export async function POST(request: Request) {
         );
 
         await resend.emails.send({
-          from: "JLPT 학습 메이트 <noreply@yourdomain.com>",
+          from: "JLPT 학습 메이트 <daily-jlpt@resend.dev>",
           to: subscriber.email,
           subject: `[JLPT 학습 메이트] ${new Date().toLocaleDateString(
             "ko-KR"
