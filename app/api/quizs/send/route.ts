@@ -4,6 +4,8 @@
 import { NextResponse } from "next/server";
 import { generateQuizByLevels } from "@/utils/generate-quiz";
 import { Resend } from "resend";
+import { db } from "@/lib/firebase";
+import { collection, query, where, getDocs } from "firebase/firestore";
 import QuizTemplate from "@/components/QuizTemplate";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
@@ -18,7 +20,6 @@ interface Subscriber {
 export async function POST(request: Request) {
   try {
     const authHeader = request.headers.get("authorization");
-
     if (authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
       return NextResponse.json(
         { error: "인증되지 않은 요청입니다." },
@@ -26,7 +27,18 @@ export async function POST(request: Request) {
       );
     }
 
-    const subscribers: Subscriber[] = [];
+    const subscribersRef = collection(db, "subscribers");
+    const subscribersQuery = query(
+      subscribersRef,
+      where("isActive", "==", true)
+    );
+
+    const subscribersSnapshot = await getDocs(subscribersQuery);
+    const subscribers: Subscriber[] = subscribersSnapshot.docs.map((doc) => ({
+      id: doc.id,
+      ...doc.data(),
+    })) as Subscriber[];
+
     const results = {
       totalSubscribers: subscribers.length,
       successCount: 0,
@@ -36,8 +48,6 @@ export async function POST(request: Request) {
 
     for (const subscriber of subscribers) {
       try {
-        if (!subscriber.isActive) continue;
-
         const questions = await generateQuizByLevels(
           subscriber.categories,
           subscriber.dailyQuizCount
