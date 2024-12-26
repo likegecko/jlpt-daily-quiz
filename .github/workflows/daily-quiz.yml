@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Send daily quiz
         run: |
-          response=$(curl -X POST \
+          response=$(curl -L -X POST \
             ${{ secrets.BASE_URL }}/api/quizs/send \
             -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
             -H "Content-Type: application/json" \
